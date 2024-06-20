@@ -35,3 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+# Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/miruddin11/Algorithms/tree/master/0263-ugly-number) |
