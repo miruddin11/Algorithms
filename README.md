@@ -23,3 +23,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/miruddin11/Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
+# Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
