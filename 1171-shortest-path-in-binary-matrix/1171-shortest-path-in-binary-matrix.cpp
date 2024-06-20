@@ -7,7 +7,7 @@ public:
         int n = grid[0].size();
         if(m == 0 || n == 0 || grid[0][0] != 0)
             return -1;
-        priority_queue<P,vector<P>,greater<P>> pq;
+        queue<P> pq;
         pq.push({0,{0,0}});
         auto isSafe = [&](int x, int y) {
             return x>=0 && x<m && y>=0 && y<n;
@@ -16,8 +16,8 @@ public:
         result[0][0]=0;
         while(!pq.empty())
         {
-            int d=pq.top().first;
-            pair<int,int> node=pq.top().second;
+            int d=pq.front().first;
+            pair<int,int> node=pq.front().second;
             int x=node.first;
             int y=node.second;
             pq.pop();
