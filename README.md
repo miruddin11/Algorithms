@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/miruddin11/Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/miruddin11/Algorithms/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Matrix
 |  |
 | ------- |
@@ -30,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/miruddin11/Algorithms/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/miruddin11/Algorithms/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/miruddin11/Algorithms/tree/master/0264-ugly-number-ii) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/miruddin11/Algorithms/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Dynamic Programming
 |  |
 | ------- |
