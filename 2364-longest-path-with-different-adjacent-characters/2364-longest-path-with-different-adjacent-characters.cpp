@@ -7,8 +7,8 @@ public:
         for(auto child:adj[curr]){
             if( child==parent ) continue;
             int longest_from_child= solve(child, curr, adj, s);
+            
             if(s[child]==s[curr]) continue;
-
             if(longest_from_child>second_longest) second_longest=longest_from_child;
             if(second_longest>longest) swap(second_longest,longest);
         }
