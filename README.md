@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/miruddin11/Algorithms/tree/master/1138-grumpy-bookstore-owner) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/miruddin11/Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/miruddin11/Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/miruddin11/Algorithms/tree/master/2364-longest-path-with-different-adjacent-characters) |
 # Binary Search
 |  |
 | ------- |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/miruddin11/Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/miruddin11/Algorithms/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/miruddin11/Algorithms/tree/master/2364-longest-path-with-different-adjacent-characters) |
 # Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/miruddin11/Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/miruddin11/Algorithms/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/miruddin11/Algorithms/tree/master/2364-longest-path-with-different-adjacent-characters) |
 # Binary Tree
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/miruddin11/Algorithms/tree/master/0212-word-search-ii) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/miruddin11/Algorithms/tree/master/2364-longest-path-with-different-adjacent-characters) |
 # Backtracking
 |  |
 | ------- |
@@ -79,3 +83,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/miruddin11/Algorithms/tree/master/1138-grumpy-bookstore-owner) |
+# Graph
+|  |
+| ------- |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/miruddin11/Algorithms/tree/master/2364-longest-path-with-different-adjacent-characters) |
+# Topological Sort
+|  |
+| ------- |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/miruddin11/Algorithms/tree/master/2364-longest-path-with-different-adjacent-characters) |
