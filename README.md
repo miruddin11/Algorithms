@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/miruddin11/Algorithms/tree/master/1138-grumpy-bookstore-owner) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/miruddin11/Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/miruddin11/Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/miruddin11/Algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1675-magnetic-force-between-two-balls](https://github.com/miruddin11/Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/miruddin11/Algorithms/tree/master/2364-longest-path-with-different-adjacent-characters) |
 # Binary Search
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sorting
 |  |
 | ------- |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/miruddin11/Algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1675-magnetic-force-between-two-balls](https://github.com/miruddin11/Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
 # Breadth-First Search
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/miruddin11/Algorithms/tree/master/0264-ugly-number-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/miruddin11/Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/miruddin11/Algorithms/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/miruddin11/Algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -97,3 +100,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/miruddin11/Algorithms/tree/master/2364-longest-path-with-different-adjacent-characters) |
+# Greedy
+|  |
+| ------- |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/miruddin11/Algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+# Counting
+|  |
+| ------- |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/miruddin11/Algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
