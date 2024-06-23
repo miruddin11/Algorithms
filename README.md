@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/miruddin11/Algorithms/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/miruddin11/Algorithms/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/miruddin11/Algorithms/tree/master/0264-ugly-number-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/miruddin11/Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/miruddin11/Algorithms/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/miruddin11/Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/miruddin11/Algorithms/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/miruddin11/Algorithms/tree/master/0312-burst-balloons) |
@@ -127,3 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/miruddin11/Algorithms/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/miruddin11/Algorithms/tree/master/0062-unique-paths) |
