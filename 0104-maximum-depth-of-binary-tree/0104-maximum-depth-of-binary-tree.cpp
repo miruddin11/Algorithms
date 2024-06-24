@@ -11,19 +11,10 @@
  */
 class Solution {
 public:
-    int mxdepth;
-    void solve(TreeNode *root,int h)
-    {
-        if(root==NULL){
-            mxdepth=max(mxdepth,h);
-            return; 
-        }
-        solve(root->left,h+1);
-        solve(root->right,h+1);
-    }
     int maxDepth(TreeNode* root) {
-        mxdepth=INT_MIN;
-        solve(root,0);
-        return mxdepth;
+        if(root==nullptr) return 0;
+        int lh=maxDepth(root->left);
+        int rh=maxDepth(root->right);
+        return 1+max(lh,rh);
     }
 };
