@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/miruddin11/Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0212-word-search-ii](https://github.com/miruddin11/Algorithms/tree/master/0212-word-search-ii) |
 | [0312-burst-balloons](https://github.com/miruddin11/Algorithms/tree/master/0312-burst-balloons) |
 | [0648-replace-words](https://github.com/miruddin11/Algorithms/tree/master/0648-replace-words) |
@@ -144,3 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/miruddin11/Algorithms/tree/master/0021-merge-two-sorted-lists) |
+# Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/miruddin11/Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
