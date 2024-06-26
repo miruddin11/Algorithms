@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/miruddin11/Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/miruddin11/Algorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/miruddin11/Algorithms/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/miruddin11/Algorithms/tree/master/2364-longest-path-with-different-adjacent-characters) |
 # Depth-First Search
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/miruddin11/Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/miruddin11/Algorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/miruddin11/Algorithms/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/miruddin11/Algorithms/tree/master/2364-longest-path-with-different-adjacent-characters) |
 # Binary Tree
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/miruddin11/Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/miruddin11/Algorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 # Math
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Greedy
 |  |
 | ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/miruddin11/Algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 # Counting
 |  |
@@ -171,3 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/miruddin11/Algorithms/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/1285-balance-a-binary-search-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/1285-balance-a-binary-search-tree) |
