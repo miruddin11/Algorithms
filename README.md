@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Graph
 |  |
 | ------- |
+| [1916-find-center-of-star-graph](https://github.com/miruddin11/Algorithms/tree/master/1916-find-center-of-star-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/miruddin11/Algorithms/tree/master/2364-longest-path-with-different-adjacent-characters) |
 # Topological Sort
 |  |
