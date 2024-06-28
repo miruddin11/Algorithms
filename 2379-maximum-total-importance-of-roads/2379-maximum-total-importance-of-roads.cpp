@@ -20,11 +20,9 @@ public:
             values[v[i].second]=n-i;
         }
         long long ans=0;
-        for(auto &e:roads)
+        for(int i=0;i<n;i++)
         {
-            int u=e[0];
-            int v=e[1];
-            ans =ans + (long long) values[u]+(long long) values[v];
+            ans =ans + (long long) Degree[i] * (long long) values[i];
         }
         return ans;
     }
