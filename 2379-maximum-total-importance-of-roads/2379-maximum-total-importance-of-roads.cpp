@@ -8,21 +8,18 @@ public:
             Degree[u]++;
             Degree[v]++;
         }
-        vector<pair<int,int>> v;
+        priority_queue<pair<int,int>> pq;
         for(int i=0;i<n;i++)
         {
-            v.push_back({Degree[i],i});
-        }
-        sort(v.rbegin(),v.rend());
-        vector<int> values(n,0);
-        for(int i=0;i<v.size();i++)
-        {
-            values[v[i].second]=n-i;
+            pq.push({Degree[i],i});
         }
         long long ans=0;
-        for(int i=0;i<n;i++)
+        long long val=n;
+        while(!pq.empty())
         {
-            ans =ans + (long long) Degree[i] * (long long) values[i];
+            ans= ans+ val * (long long) pq.top().first;
+            pq.pop();
+            val--;
         }
         return ans;
     }
