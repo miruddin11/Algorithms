@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/miruddin11/Algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1675-magnetic-force-between-two-balls](https://github.com/miruddin11/Algorithms/tree/master/1675-magnetic-force-between-two-balls) |
+| [2379-maximum-total-importance-of-roads](https://github.com/miruddin11/Algorithms/tree/master/2379-maximum-total-importance-of-roads) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/miruddin11/Algorithms/tree/master/0264-ugly-number-ii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/miruddin11/Algorithms/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/miruddin11/Algorithms/tree/master/2379-maximum-total-importance-of-roads) |
 # String
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/miruddin11/Algorithms/tree/master/1916-find-center-of-star-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/miruddin11/Algorithms/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2379-maximum-total-importance-of-roads](https://github.com/miruddin11/Algorithms/tree/master/2379-maximum-total-importance-of-roads) |
 # Topological Sort
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/miruddin11/Algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2379-maximum-total-importance-of-roads](https://github.com/miruddin11/Algorithms/tree/master/2379-maximum-total-importance-of-roads) |
 # Counting
 |  |
 | ------- |
