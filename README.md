@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0985-bag-of-tokens](https://github.com/miruddin11/Algorithms/tree/master/0985-bag-of-tokens) |
+| [1033-broken-calculator](https://github.com/miruddin11/Algorithms/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/miruddin11/Algorithms/tree/master/1252-break-a-palindrome) |
 | [2379-maximum-total-importance-of-roads](https://github.com/miruddin11/Algorithms/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0985-bag-of-tokens](https://github.com/miruddin11/Algorithms/tree/master/0985-bag-of-tokens) |
+## Math
+|  |
+| ------- |
+| [1033-broken-calculator](https://github.com/miruddin11/Algorithms/tree/master/1033-broken-calculator) |
 <!---LeetCode Topics End-->
