@@ -6,10 +6,9 @@ public:
         if(st.find(endWord)==st.end()) return 0;
         queue<string> q;
         q.push(beginWord);
-        int level=0;
+        int level=1;
         while(!q.empty())
         {
-            level+=1;
             int size=q.size();
             while(size--)
             {
@@ -30,6 +29,7 @@ public:
                     }
                 }
             }
+            level+=1;
         }
         return 0;
     }
