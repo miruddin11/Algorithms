@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void DFS(int curr,unordered_map<int,vector<int>> &adj,int ancestor,vector<vector<int>> &res)
+    void DFS(int curr,vector<vector<int>> &adj,int ancestor,vector<vector<int>> &res)
     {
         for(auto nbrs:adj[curr])
         {
@@ -13,7 +13,7 @@ public:
     }
     vector<vector<int>> getAncestors(int n, vector<vector<int>>& edges) {
         vector<vector<int>> res(n);
-        unordered_map<int,vector<int>> adj;
+        vector<vector<int>> adj(n);
         for(auto &e:edges)
         {
             int u=e[0];
