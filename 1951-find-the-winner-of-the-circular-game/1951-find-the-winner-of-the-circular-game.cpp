@@ -1,16 +1,16 @@
 class Solution {
 public:
-    int findTheWinner(int n, int k) {
-        queue<int> q;
-        for(int i=1;i<=n;i++) q.push(i);
-        while(q.size()>1)
-        {
-            for(int c=1;c<=k-1;c++){
-                q.push(q.front());
-                q.pop();
-            }
-            q.pop();
+    int findWinnerIdx(int n,int k)
+    {
+        if(n==1){
+            return 0;
         }
-        return q.front();
+        int idx=findWinnerIdx(n-1,k);
+        idx= (idx+k)%n;
+        return idx;
+    }
+    int findTheWinner(int n, int k) {
+        int ans_idx=findWinnerIdx(n,k);
+        return ans_idx+1;
     }
 };
