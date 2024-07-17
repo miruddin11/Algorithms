@@ -22,7 +22,6 @@ public:
             if(root->left!=NULL) ans.push_back(root->left);
 
             if(root->right!=NULL) ans.push_back(root->right);
-
             return NULL;
         }
         else{
