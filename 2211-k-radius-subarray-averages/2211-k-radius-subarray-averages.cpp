@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> getAverages(vector<int>& nums, int k) {
+        ios::sync_with_stdio(false); cin.tie(0);
         int i=0,j=0;
         int n=nums.size();
         vector<int> ans(n,-1);
