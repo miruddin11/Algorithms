@@ -40,6 +40,7 @@ public:
         return merged;
     }
     int countPairs(TreeNode* root, int distance) {
+        ios::sync_with_stdio(false); cin.tie(0);
         goodPair=0;
         solve(root,distance);
         return goodPair;
