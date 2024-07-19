@@ -11,56 +11,37 @@
  */
 class Solution {
 public:
-    void makeGraph(TreeNode *root,TreeNode *prev,unordered_map<TreeNode*,vector<TreeNode*>> &adj,unordered_set<TreeNode*> &lf)
-    {
+    int goodPair;
+    vector<int> solve(TreeNode* root,int distance){
         if(root==NULL){
-            return;
+            return {0};
         }
-        if(root->left==NULL&&root->right==NULL){
-            lf.insert(root);
+        if(root->left==NULL&& root->right==NULL){
+            return {1};
         }
-        if(prev!=NULL){
-            TreeNode* u=root;
-            TreeNode* v=prev;
-            adj[u].push_back(v);
-            adj[v].push_back(u);
-        }
-        makeGraph(root->left,root,adj,lf);
-        makeGraph(root->right,root,adj,lf);
-    }
-    int countPairs(TreeNode* root, int distance) {
-        unordered_set<TreeNode*> lf;
-        unordered_map<TreeNode*,vector<TreeNode*>> adj;
-        makeGraph(root,NULL,adj,lf);
-
-        int ans=0;
-        for(auto &leaf:lf)
-        {
-            unordered_set<TreeNode*> visited;
-            visited.insert(leaf);
-            queue<TreeNode*> q;
-            q.push(leaf);
-            int level=0;
-            while(!q.empty()&&level<=distance)
-            {
-                int size=q.size();
-                while(size--)
-                {
-                    TreeNode* curr=q.front();
-                    q.pop();
-                    if(curr!=leaf&&lf.find(curr)!=lf.end()){
-                        ans+=1;
-                    }
-                    for(auto nbr:adj[curr]){
-                        if(visited.find(nbr)==visited.end()){
-                            q.push(nbr);
-                            visited.insert(nbr);
-                        }
-                    }
+        vector<int> l=solve(root->left,distance);
+        vector<int> r=solve(root->right,distance);
+        for(auto &x:l){
+            for(auto &y:r){
+                if(x!=0&&y!=0&&x+y<=distance){
+                    goodPair++;
                 }
-                level++;
             }
         }
-        return ans/2;
+        vector<int> merged;
+        for(auto &x:l){
+            if(x!=0&&x+1<=distance)
+            merged.push_back(x+1);
+        }
+        for(auto &y:r){
+            if(y!=0&&y+1<=distance)
+            merged.push_back(y+1);
+        }
+        return merged;
+    }
+    int countPairs(TreeNode* root, int distance) {
+        goodPair=0;
+        solve(root,distance);
+        return goodPair;
     }
 };
