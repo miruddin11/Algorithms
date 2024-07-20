@@ -1,6 +1,9 @@
 class Solution {
 public:
     int longestPalindrome(vector<string>& words) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
         unordered_map<string,int> mp;
         for(auto &s:words){
             mp[s]+=1;
