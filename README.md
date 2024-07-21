@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/miruddin11/Algorithms/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/miruddin11/Algorithms/tree/master/1252-break-a-palindrome) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/miruddin11/Algorithms/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/miruddin11/Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/miruddin11/Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/miruddin11/Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/miruddin11/Algorithms/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/miruddin11/Algorithms/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/miruddin11/Algorithms/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/miruddin11/Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/miruddin11/Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/miruddin11/Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/miruddin11/Algorithms/tree/master/1720-crawler-log-folder) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/miruddin11/Algorithms/tree/master/0221-maximal-square) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/miruddin11/Algorithms/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/miruddin11/Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/miruddin11/Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Union Find
 |  |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/miruddin11/Algorithms/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/miruddin11/Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1720-crawler-log-folder](https://github.com/miruddin11/Algorithms/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/miruddin11/Algorithms/tree/master/2846-robot-collisions) |
@@ -413,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/miruddin11/Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
