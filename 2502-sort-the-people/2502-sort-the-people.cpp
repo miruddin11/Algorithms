@@ -5,9 +5,9 @@ public:
         cin.tie(nullptr);
         cout.tie(nullptr);
         int n=names.size();
-        vector< pair<int,string> > mp;
+        vector< pair<int,string> > mp(n);
         for(int i=0;i<n;i++){
-            mp.push_back({heights[i],names[i]});
+            mp[i]={heights[i],names[i]};
         }
         sort(mp.rbegin(),mp.rend());
         vector<string> ans(n);
