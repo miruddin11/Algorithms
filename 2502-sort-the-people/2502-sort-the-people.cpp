@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
         int n=names.size();
         vector< pair<int,string> > mp;
         for(int i=0;i<n;i++){
