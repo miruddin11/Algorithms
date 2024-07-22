@@ -9,11 +9,10 @@ public:
         for(int i=0;i<n;i++){
             mp[i]={heights[i],names[i]};
         }
-        sort(mp.rbegin(),mp.rend());
-        vector<string> ans(n);
-        for(int i=0;i<n;i++){
-            ans[i]=mp[i].second;
+        sort(mp.begin(),mp.end());
+        for(int i=n-1;i>=0;i--){
+            names[i]=mp[n-i-1].second;
         }
-        return ans;
+        return names;
     }
 };
