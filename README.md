@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/miruddin11/Algorithms/tree/master/2502-sort-the-people) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/miruddin11/Algorithms/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2846-robot-collisions](https://github.com/miruddin11/Algorithms/tree/master/2846-robot-collisions) |
+| [3113-beautiful-towers-ii](https://github.com/miruddin11/Algorithms/tree/master/3113-beautiful-towers-ii) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/miruddin11/Algorithms/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3321-type-of-triangle](https://github.com/miruddin11/Algorithms/tree/master/3321-type-of-triangle) |
 ## Binary Search
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/miruddin11/Algorithms/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/miruddin11/Algorithms/tree/master/2846-robot-collisions) |
+| [3113-beautiful-towers-ii](https://github.com/miruddin11/Algorithms/tree/master/3113-beautiful-towers-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -431,4 +433,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/miruddin11/Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3113-beautiful-towers-ii](https://github.com/miruddin11/Algorithms/tree/master/3113-beautiful-towers-ii) |
 <!---LeetCode Topics End-->
