@@ -5,11 +5,17 @@ public:
         for(int i=0;i<nums.size();i++)
         {
             int x=nums[i];
-            string s=to_string(x);
+            if(x<10){
+                v.push_back({mapping[x],i});
+                continue;
+            }
             int val=0;
-            for(int i=0;i<s.size();i++)
-            {
-                val=val*10+mapping[s[i]-'0'];
+            int place=1;
+            while(x>0){
+                int d=x%10;
+                val=val+mapping[d]*place;
+                x=x/10;
+                place*=10;
             }
             v.push_back({val,i});
         }
