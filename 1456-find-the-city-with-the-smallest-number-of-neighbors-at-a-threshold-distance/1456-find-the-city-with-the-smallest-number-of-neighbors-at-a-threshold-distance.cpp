@@ -1,11 +1,11 @@
 class Solution {
 public:
     vector<vector<int>> shortestPathMatrix;
-    void Dijasktra(unordered_map< int, vector< pair<int,int> > > &adj,int distanceThreshold,int source,int n)
+    void Dijasktra(unordered_map< int, vector< pair<int,int> > > &adj,int distanceThreshold,vector<int> &result,int source,int n)
     {
-        vector<int> result(n,INT_MAX);
         priority_queue<pair<int,int>> pq;
         pq.push({0,source});
+        fill(result.begin(), result.end(), INT_MAX);
         result[source]=0;
         while(!pq.empty())
         {
@@ -50,9 +50,13 @@ public:
             adj[u].push_back({v,wt});
             adj[v].push_back({u,wt});
         }
+        shortestPathMatrix.resize(n, vector<int>(n, INT_MAX));
+        for (int i = 0; i < n; i++) {
+            shortestPathMatrix[i][i] = 0;
+        }
         for(int i=0;i<n;i++)
         {
-            Dijasktra(adj,distanceThreshold,i,n);
+            Dijasktra(adj,distanceThreshold,shortestPathMatrix[i],i,n);
         }
         return getCityWithFewestReachable(n, shortestPathMatrix, distanceThreshold);
     }
