@@ -42,6 +42,8 @@ public:
         return cityWithFewestReachable;
     }
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
+        ios_base::sync_with_stdio(0);
+        cin.tie(0);
         unordered_map< int, vector< pair<int,int> > > adj;
         for(auto &vec:edges){
             int u=vec[0];
