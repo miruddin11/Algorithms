@@ -1,11 +1,10 @@
 class Solution {
 public:
-    vector<vector<int>> shortestPathMatrix;
-    void Dijasktra(unordered_map< int, vector< pair<int,int> > > &adj,int distanceThreshold,vector<int> &result,int source,int n)
+    int Dijasktra(unordered_map< int, vector< pair<int,int> > > &adj,int distanceThreshold,int source,int n)
     {
+        vector<int> result(n,INT_MAX);
         priority_queue<pair<int,int>> pq;
-        pq.push({0,source});
-        fill(result.begin(), result.end(), INT_MAX);
+        pq.push({0,source});//distance node
         result[source]=0;
         while(!pq.empty())
         {
@@ -21,25 +20,14 @@ public:
                 }
             }
         }
-        shortestPathMatrix.push_back(result);
-    }
-    int getCityWithFewestReachable(int n, const vector<vector<int>>& shortestPathMatrix, int distanceThreshold) {
-        int cityWithFewestReachable = -1;
-        int fewestReachableCount = INT_MAX;
-        for (int i = 0; i < n; i++) {
-            int reachableCount = 0;
-            for (int j = 0; j < n; j++) {
-                if (i != j && shortestPathMatrix[i][j] <= distanceThreshold) {
-                    reachableCount++;
-                }
-            }
-
-            if (reachableCount <= fewestReachableCount) {
-                fewestReachableCount = reachableCount;
-                cityWithFewestReachable = i;
+        int cnt=0;
+        for(int i=0;i<n;i++)
+        {
+            if(result[i]<=distanceThreshold){
+                cnt+=1;
             }
         }
-        return cityWithFewestReachable;
+        return cnt;
     }
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
         ios_base::sync_with_stdio(0);
@@ -52,14 +40,19 @@ public:
             adj[u].push_back({v,wt});
             adj[v].push_back({u,wt});
         }
-        shortestPathMatrix.resize(n, vector<int>(n, INT_MAX));
-        for (int i = 0; i < n; i++) {
-            shortestPathMatrix[i][i] = 0;
-        }
+        int ans=-1;
+        int cnt=INT_MAX;
         for(int i=0;i<n;i++)
         {
-            Dijasktra(adj,distanceThreshold,shortestPathMatrix[i],i,n);
+            int val=Dijasktra(adj,distanceThreshold,i,n);
+            if(cnt>val){
+                cnt=val;
+                ans=i;
+            }
+            else if(cnt==val){
+                ans=max(ans,i);
+            }
         }
-        return getCityWithFewestReachable(n, shortestPathMatrix, distanceThreshold);
+        return ans;
     }
 };
