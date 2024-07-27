@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/miruddin11/Algorithms/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/miruddin11/Algorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/miruddin11/Algorithms/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/miruddin11/Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/miruddin11/Algorithms/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2846-robot-collisions](https://github.com/miruddin11/Algorithms/tree/master/2846-robot-collisions) |
 | [3113-beautiful-towers-ii](https://github.com/miruddin11/Algorithms/tree/master/3113-beautiful-towers-ii) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/miruddin11/Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/miruddin11/Algorithms/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3321-type-of-triangle](https://github.com/miruddin11/Algorithms/tree/master/3321-type-of-triangle) |
 ## Binary Search
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/miruddin11/Algorithms/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2502-sort-the-people](https://github.com/miruddin11/Algorithms/tree/master/2502-sort-the-people) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/miruddin11/Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/miruddin11/Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/miruddin11/Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Geometry
 |  |
 | ------- |
