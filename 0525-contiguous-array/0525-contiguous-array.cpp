@@ -5,23 +5,14 @@ public:
         int sum=0;
         unordered_map<int,int> mp;
         mp[0]=-1;
-        for(int j=0;j<nums.size();j++)
+        for(int i=0;i<nums.size();i++)
         {
-            if(nums[j]==0){
-                sum-=1;
-            }
-            else{
-                sum+=1;
-            }
-
+            sum+=(nums[i]==0)?-1:1;
             if(mp.find(sum)!=mp.end()){
-                int prev_idx=mp[sum];
-                int curr_idx=j;
-                int len=curr_idx-prev_idx;
-                maxLen=max(maxLen,len);
+                maxLen=max(maxLen,i-mp[sum]);
             }
             else{
-                mp[sum]=j;
+                mp[sum]=i;
             }
         }
         return maxLen;
