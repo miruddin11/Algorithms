@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/miruddin11/Algorithms/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/miruddin11/Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/miruddin11/Algorithms/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/miruddin11/Algorithms/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/miruddin11/Algorithms/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/miruddin11/Algorithms/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/miruddin11/Algorithms/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/miruddin11/Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/miruddin11/Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/miruddin11/Algorithms/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Union Find
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/miruddin11/Algorithms/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/miruddin11/Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1720-crawler-log-folder](https://github.com/miruddin11/Algorithms/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/miruddin11/Algorithms/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/miruddin11/Algorithms/tree/master/2846-robot-collisions) |
 | [3113-beautiful-towers-ii](https://github.com/miruddin11/Algorithms/tree/master/3113-beautiful-towers-ii) |
