@@ -18,8 +18,6 @@ public:
         return dp[i][remWidth]=min(take,notTake);
     }
     int minHeightShelves(vector<vector<int>>& books, int shelfWidth) {
-        ios_base::sync_with_stdio(0);
-        cin.tie(0);
         memset(dp,-1,sizeof(dp));
         width=shelfWidth;
         return solve(0,books,shelfWidth,0);
