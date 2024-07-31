@@ -1,7 +1,7 @@
 class Solution {
 public:
     int width;
-    vector<vector<int>> dp;
+    int dp[1001][1001];
     int solve(int i,vector<vector<int>> &books,int remWidth,int maxHeight)
     {
         if(i>=books.size()) return maxHeight;
@@ -18,7 +18,7 @@ public:
         return dp[i][remWidth]=min(take,notTake);
     }
     int minHeightShelves(vector<vector<int>>& books, int shelfWidth) {
-        dp.resize(1001,vector<int>(1001,-1));
+        memset(dp,-1,sizeof(dp));
         width=shelfWidth;
         return solve(0,books,shelfWidth,0);
     }
