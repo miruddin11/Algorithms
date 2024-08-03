@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-maximum-points-after-enemy-battles](https://github.com/miruddin11/Algorithms/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3321-type-of-triangle](https://github.com/miruddin11/Algorithms/tree/master/3321-type-of-triangle) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/miruddin11/Algorithms/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/miruddin11/Algorithms/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/miruddin11/Algorithms/tree/master/2645-pass-the-pillow) |
 | [3321-type-of-triangle](https://github.com/miruddin11/Algorithms/tree/master/3321-type-of-triangle) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/miruddin11/Algorithms/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/miruddin11/Algorithms/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
 | ------- |
