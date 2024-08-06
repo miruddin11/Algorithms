@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2379-maximum-total-importance-of-roads](https://github.com/miruddin11/Algorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/miruddin11/Algorithms/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/miruddin11/Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/miruddin11/Algorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/miruddin11/Algorithms/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/miruddin11/Algorithms/tree/master/2846-robot-collisions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/miruddin11/Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3321-type-of-triangle](https://github.com/miruddin11/Algorithms/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/miruddin11/Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/miruddin11/Algorithms/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/miruddin11/Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/miruddin11/Algorithms/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/miruddin11/Algorithms/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/miruddin11/Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/miruddin11/Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/miruddin11/Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
