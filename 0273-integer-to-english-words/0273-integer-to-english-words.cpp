@@ -28,6 +28,8 @@ public:
         return solve(num/1000000000)+" Billion"+((num%1000000000!=0)?" "+solve(num%1000000000):""); 
     }
     string numberToWords(int num) {
+        ios_base::sync_with_stdio(0);
+        cin.tie(0);
         if(num==0){
             return "Zero";
         }
