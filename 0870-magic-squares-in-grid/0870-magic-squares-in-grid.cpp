@@ -44,7 +44,6 @@ public:
                 return false;
             }
         }
-        //Diagonal
         int ldSum=grid[r][c]+grid[r+1][c+1]+grid[r+2][c+2];
         if(ldSum!=rowSum){
             return false;
