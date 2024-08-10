@@ -16,10 +16,10 @@ public:
         if(node1==NULL&&node2==NULL){
             return true;
         }
-        if(node1==NULL||node2==NULL){
+        if((node1==NULL||node2==NULL)||(node1->val!=node2->val)){
             return false;
         }
-        return (node1->val==node2->val)&&DFS(node1->left,node2->right)&&DFS(node1->right,node2->left);
+        return DFS(node1->left,node2->right)&&DFS(node1->right,node2->left);
     }
     bool isSymmetric(TreeNode* root) {
         if(root==NULL){
