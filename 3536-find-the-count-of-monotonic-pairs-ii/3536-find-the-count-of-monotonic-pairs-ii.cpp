@@ -15,12 +15,13 @@ public:
             {
                 // int arr1=j;
                 // int arr2=nums[i]-j;
-                // for(int k=arr1;k>=0;k--)
+                // for(int k=arr1;k>=0;k--) // 1.k<=arr1 ==> k<=j
                 // {
-                //     if(arr2<=nums[i-1]-k){
+                //     if(arr2<=nums[i-1]-k){ // 2.nums[i]-j<=nums[i-1]-k
                 //         dp[i][j]=(dp[i][j]+dp[i-1][k])%MOD;
                 //     }
                 // }
+                // 1 & 2==>
                 // k<=j&&nums[i-1]-k>=nums[i]-j
                 // k<=min(j,j-(nums[i]-nums[i-1]))
                 // for j+1,the k will be
