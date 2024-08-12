@@ -15,7 +15,7 @@ public:
     int add(int val) {
         pq.push(val);
         int x=pos;
-        while(pq.size()>x)
+        if(pq.size()>x)
         {
             pq.pop();
         }
