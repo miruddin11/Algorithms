@@ -5,6 +5,10 @@ public:
     KthLargest(int k, vector<int>& nums) {
         for(auto &x:nums){
             pq.push(x);
+
+            if(pq.size()>k){
+                pq.pop();
+            }
         }
         pos=k;
     }
