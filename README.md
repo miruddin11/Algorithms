@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/miruddin11/Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/miruddin11/Algorithms/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/miruddin11/Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2102-find-the-middle-index-in-array](https://github.com/miruddin11/Algorithms/tree/master/2102-find-the-middle-index-in-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/miruddin11/Algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/miruddin11/Algorithms/tree/master/2211-k-radius-subarray-averages) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/miruddin11/Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/miruddin11/Algorithms/tree/master/0525-contiguous-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/miruddin11/Algorithms/tree/master/1046-max-consecutive-ones-iii) |
+| [2102-find-the-middle-index-in-array](https://github.com/miruddin11/Algorithms/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/miruddin11/Algorithms/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Tree
 |  |
