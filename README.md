@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/miruddin11/Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/miruddin11/Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/miruddin11/Algorithms/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/miruddin11/Algorithms/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/miruddin11/Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/miruddin11/Algorithms/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/miruddin11/Algorithms/tree/master/0239-sliding-window-maximum) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/miruddin11/Algorithms/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/miruddin11/Algorithms/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/miruddin11/Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/miruddin11/Algorithms/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/miruddin11/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/miruddin11/Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/miruddin11/Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/miruddin11/Algorithms/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/miruddin11/Algorithms/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/miruddin11/Algorithms/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
