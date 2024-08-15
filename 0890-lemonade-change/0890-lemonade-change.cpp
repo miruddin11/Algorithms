@@ -1,3 +1,5 @@
+#pragma GCC optimize("Ofast")
+static auto _ = [](){ios::sync_with_stdio(false); cin.tie(nullptr); return nullptr;}();
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
