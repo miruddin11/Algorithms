@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/miruddin11/Algorithms/tree/master/0011-container-with-most-water) |
+| [0890-lemonade-change](https://github.com/miruddin11/Algorithms/tree/master/0890-lemonade-change) |
 | [0985-bag-of-tokens](https://github.com/miruddin11/Algorithms/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/miruddin11/Algorithms/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/miruddin11/Algorithms/tree/master/1252-break-a-palindrome) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/miruddin11/Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/miruddin11/Algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/miruddin11/Algorithms/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/miruddin11/Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/miruddin11/Algorithms/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/miruddin11/Algorithms/tree/master/0985-bag-of-tokens) |
