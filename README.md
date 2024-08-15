@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/miruddin11/Algorithms/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/miruddin11/Algorithms/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/miruddin11/Algorithms/tree/master/0127-word-ladder) |
 | [0273-integer-to-english-words](https://github.com/miruddin11/Algorithms/tree/master/0273-integer-to-english-words) |
