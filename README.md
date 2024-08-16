@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/miruddin11/Algorithms/tree/master/0011-container-with-most-water) |
+| [0624-maximum-distance-in-arrays](https://github.com/miruddin11/Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/miruddin11/Algorithms/tree/master/0890-lemonade-change) |
 | [0985-bag-of-tokens](https://github.com/miruddin11/Algorithms/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/miruddin11/Algorithms/tree/master/1033-broken-calculator) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/miruddin11/Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/miruddin11/Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/miruddin11/Algorithms/tree/master/0525-contiguous-array) |
+| [0624-maximum-distance-in-arrays](https://github.com/miruddin11/Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/miruddin11/Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/miruddin11/Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
