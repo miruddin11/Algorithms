@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/miruddin11/Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/miruddin11/Algorithms/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/miruddin11/Algorithms/tree/master/0127-word-ladder) |
+| [0138-copy-list-with-random-pointer](https://github.com/miruddin11/Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0264-ugly-number-ii](https://github.com/miruddin11/Algorithms/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/miruddin11/Algorithms/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/miruddin11/Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/miruddin11/Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/miruddin11/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/miruddin11/Algorithms/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/miruddin11/Algorithms/tree/master/2299-merge-nodes-in-between-zeros) |
