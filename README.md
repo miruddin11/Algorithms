@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/miruddin11/Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/miruddin11/Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/miruddin11/Algorithms/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2379-maximum-total-importance-of-roads](https://github.com/miruddin11/Algorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/miruddin11/Algorithms/tree/master/3264-maximum-points-after-enemy-battles) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/miruddin11/Algorithms/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/miruddin11/Algorithms/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/miruddin11/Algorithms/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2502-sort-the-people](https://github.com/miruddin11/Algorithms/tree/master/2502-sort-the-people) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/miruddin11/Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/miruddin11/Algorithms/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/miruddin11/Algorithms/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/miruddin11/Algorithms/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Union Find
 |  |
 | ------- |
