@@ -25,6 +25,6 @@ public:
         if(root->left==NULL&&root->right==NULL){
             return true;
         }
-        return solve(root,-1e18,1e18);
+        return solve(root,LLONG_MIN,LLONG_MAX);
     }
 };
