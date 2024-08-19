@@ -1,33 +1,24 @@
 class Solution {
 public:
-    int dp[1001][1001];
-    int solve(int s,int c,int n)
-    {
-        if(s>n){
-            return 1e5;
-        }
-        if(s==n){
-            return 0;
-        }
-        if(dp[s][c]!=-1){
-            return dp[s][c];
-        }
-        int copy=1e5;
-        int paste=1e5;
-        if(s==c){
-            paste=1+solve(s+c,c,n);
-        }
-        else{
-            paste=1+solve(s+c,c,n);
-            copy=1+solve(s,s,n);
-        }
-        return dp[s][c]=min(copy,paste);
-    }
     int minSteps(int n) {
-        memset(dp,-1,sizeof(dp));
         if(n==1){
             return 0;
         }
-        return 1+solve(1,1,n);
+        vector<int> dp(n+1,0);
+        dp[0]=0,dp[1]=0,dp[2]=2;
+        for(int i=3;i<=n;i++)
+        {
+            int factor=i/2;
+            while(factor>=1)
+            {
+                if(i%factor==0){
+                    dp[i]=1+(i/factor -1 )+dp[factor];
+                    break;
+                }else{
+                    factor--;
+                }
+            }
+        }
+        return dp[n];
     }
 };
