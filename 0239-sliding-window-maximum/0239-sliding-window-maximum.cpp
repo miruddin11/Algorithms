@@ -8,14 +8,14 @@ public:
         while(j<n)
         {
             pq.push({nums[j],j});
+            while(!pq.empty()&&pq.top().second<i){
+                    pq.pop();
+            }
             if(j-i+1==k){
                 if(!pq.empty()){
                     ans.push_back(pq.top().first);
                 }
                 i++;
-                while(!pq.empty()&&pq.top().second<i){
-                    pq.pop();
-                }
             }
             j++;
         }
