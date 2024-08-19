@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/miruddin11/Algorithms/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/miruddin11/Algorithms/tree/master/0985-bag-of-tokens) |
 | [0999-regions-cut-by-slashes](https://github.com/miruddin11/Algorithms/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/miruddin11/Algorithms/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/miruddin11/Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/miruddin11/Algorithms/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/miruddin11/Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/miruddin11/Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/miruddin11/Algorithms/tree/master/0127-word-ladder) |
 | [0999-regions-cut-by-slashes](https://github.com/miruddin11/Algorithms/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/miruddin11/Algorithms/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/miruddin11/Algorithms/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/miruddin11/Algorithms/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/miruddin11/Algorithms/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/miruddin11/Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/miruddin11/Algorithms/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/miruddin11/Algorithms/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/miruddin11/Algorithms/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/miruddin11/Algorithms/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/miruddin11/Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
