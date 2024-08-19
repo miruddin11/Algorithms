@@ -15,13 +15,13 @@ public:
         int copy=1e5;
         int paste=1e5;
         if(s==c){
-            paste=solve(s+c,c,n);
+            paste=1+solve(s+c,c,n);
         }
         else{
-            paste=solve(s+c,c,n);
-            copy=solve(s,s,n);
+            paste=1+solve(s+c,c,n);
+            copy=1+solve(s,s,n);
         }
-        return dp[s][c]=1+min(copy,paste);
+        return dp[s][c]=min(copy,paste);
     }
     int minSteps(int n) {
         memset(dp,-1,sizeof(dp));
