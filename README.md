@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/miruddin11/Algorithms/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/miruddin11/Algorithms/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/miruddin11/Algorithms/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/miruddin11/Algorithms/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [1033-broken-calculator](https://github.com/miruddin11/Algorithms/tree/master/1033-broken-calculator) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/miruddin11/Algorithms/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/miruddin11/Algorithms/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/miruddin11/Algorithms/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/miruddin11/Algorithms/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/miruddin11/Algorithms/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/miruddin11/Algorithms/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/miruddin11/Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/miruddin11/Algorithms/tree/master/1511-count-number-of-teams) |
