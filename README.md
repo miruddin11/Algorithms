@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/miruddin11/Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/miruddin11/Algorithms/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/miruddin11/Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/miruddin11/Algorithms/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/miruddin11/Algorithms/tree/master/1333-sort-the-jumbled-numbers) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/miruddin11/Algorithms/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/miruddin11/Algorithms/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [1033-broken-calculator](https://github.com/miruddin11/Algorithms/tree/master/1033-broken-calculator) |
+| [1240-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1240-stone-game-ii) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/miruddin11/Algorithms/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1642-water-bottles](https://github.com/miruddin11/Algorithms/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/miruddin11/Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/miruddin11/Algorithms/tree/master/0650-2-keys-keyboard) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/miruddin11/Algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1196-filling-bookcase-shelves](https://github.com/miruddin11/Algorithms/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/miruddin11/Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/miruddin11/Algorithms/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/miruddin11/Algorithms/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/miruddin11/Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/miruddin11/Algorithms/tree/master/0525-contiguous-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/miruddin11/Algorithms/tree/master/1046-max-consecutive-ones-iii) |
+| [1240-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1240-stone-game-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/miruddin11/Algorithms/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/miruddin11/Algorithms/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Tree
@@ -670,4 +674,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/miruddin11/Algorithms/tree/master/0039-combination-sum) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
