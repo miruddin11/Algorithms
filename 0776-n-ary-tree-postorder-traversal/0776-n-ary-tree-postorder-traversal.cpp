@@ -20,18 +20,27 @@ public:
 
 class Solution {
 public:
-    vector<int> ans;
-    void solve(Node* root)
-    {
-        if(root==NULL) return;
-        for(auto node:root->children)
-        {
-            solve(node);
-        }
-        ans.push_back(root->val);
-    }
     vector<int> postorder(Node* root) {
-        solve(root);
+        if(root==NULL) return {};
+        vector<int> ans;
+        stack<pair<Node*,bool>> st;
+        st.push({root,false});
+        while(!st.empty())
+        {
+            Node* node=st.top().first;
+            bool vis=st.top().second;
+            st.pop();
+            if(vis==true){
+                ans.push_back(node->val);
+            }
+            else{
+                st.push({node,true});
+                for(int i=(node->children.size())-1;i>=0;i--)
+                {
+                    st.push({node->children[i],false});
+                }
+            }
+        }
         return ans;
     }
 };
