@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> dir={{0,-1},{0,1},{1,0},{-1,0}};
-    bool DFS(int i,int j,vector<vector<int>> &grid1,vector<vector<int>> &grid2)
+    bool BFS(int i,int j,vector<vector<int>> &grid1,vector<vector<int>> &grid2)
     {
         queue<pair<int,int>> q;
         q.push({i,j});
@@ -36,7 +36,7 @@ public:
             {
                 if(grid2[i][j]==1)
                 {
-                    if(DFS(i,j,grid1,grid2)){
+                    if(BFS(i,j,grid1,grid2)){
                         cnt+=1;
                     }
                 }
