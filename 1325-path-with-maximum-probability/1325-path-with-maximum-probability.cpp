@@ -12,24 +12,24 @@ public:
             adj[v].push_back({u,wt});
         }
         priority_queue<P> pq;
-        vector<double> ans(n,0);
-        pq.push({1,start_node});
-        ans[start_node]=1;
+        pq.push({1.0,start_node});
+        vector<double> result(n,0.0);
+        result[start_node]=1;
         while(!pq.empty())
         {
-            int currNode=pq.top().second;
             double currProb=pq.top().first;
+            int currNode=pq.top().second;
             pq.pop();
             for(auto &nbr:adj[currNode])
             {
-                double adjProb=nbr.second;
                 int adjNode=nbr.first;
-                if(ans[adjNode]<currProb*adjProb){
-                    ans[adjNode]=currProb*adjProb;
-                    pq.push({ans[adjNode],adjNode});
+                double prob=nbr.second;
+                if(currProb*prob>result[adjNode]){
+                    result[adjNode]=currProb*prob;
+                    pq.push({result[adjNode],adjNode});
                 }
             }
         }
-        return ans[end_node];
+        return result[end_node];
     }
 };
