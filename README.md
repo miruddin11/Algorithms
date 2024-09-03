@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/miruddin11/Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/miruddin11/Algorithms/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/miruddin11/Algorithms/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/miruddin11/Algorithms/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/miruddin11/Algorithms/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/miruddin11/Algorithms/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/miruddin11/Algorithms/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/miruddin11/Algorithms/tree/master/0264-ugly-number-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/miruddin11/Algorithms/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/miruddin11/Algorithms/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/miruddin11/Algorithms/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/miruddin11/Algorithms/tree/master/0664-strange-printer) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/miruddin11/Algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
