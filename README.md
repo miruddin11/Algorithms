@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/miruddin11/Algorithms/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0563-binary-tree-tilt](https://github.com/miruddin11/Algorithms/tree/master/0563-binary-tree-tilt) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/miruddin11/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/miruddin11/Algorithms/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/miruddin11/Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/miruddin11/Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0563-binary-tree-tilt](https://github.com/miruddin11/Algorithms/tree/master/0563-binary-tree-tilt) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/miruddin11/Algorithms/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/miruddin11/Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/miruddin11/Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0563-binary-tree-tilt](https://github.com/miruddin11/Algorithms/tree/master/0563-binary-tree-tilt) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/miruddin11/Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
