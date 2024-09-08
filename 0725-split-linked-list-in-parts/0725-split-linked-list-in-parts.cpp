@@ -22,7 +22,7 @@ public:
         ListNode* prev=NULL;
         int rem=len%k;
         int size=len/k;
-        for(int i=0;i<k;i++)
+        for(int i=0;i<k&&curr!=NULL;i++)
         {
             ans[i]=curr;
             for(int count=1;count<=size+(rem>0?1:0);count++)
