@@ -15,41 +15,42 @@ public:
         if(root==NULL){
             return {};
         }
-        vector<vector<int>> ans;
         deque<TreeNode*> dq;
+        vector<vector<int>> ans;
         dq.push_back(root);
-        int l=0;
+        int level=0;
         while(!dq.empty())
         {
             int size=dq.size();
-            vector<int> level;
+            vector<int> t;
             while(size--)
             {
-                if(l%2==0){
-                    TreeNode *curr=dq.back();
-                    dq.pop_back();
-                    level.push_back(curr->val);
-                    if(curr->left!=NULL){
-                        dq.push_front(curr->left);
+                if(level%2==1){
+                    TreeNode* node=dq.front();
+                    dq.pop_front();
+                    t.push_back(node->val);
+                    if(node->right!=NULL){
+                        dq.push_back(node->right);
                     }
-                    if(curr->right!=NULL){
-                        dq.push_front(curr->right);
+                    if(node->left!=NULL){
+                        dq.push_back(node->left);
                     }
                 }
-                else{
-                    TreeNode *curr=dq.front();
-                    dq.pop_front();
-                    level.push_back(curr->val);
-                    if(curr->right!=NULL){
-                        dq.push_back(curr->right);
+                else
+                {
+                    TreeNode* node=dq.back();
+                    dq.pop_back();
+                    t.push_back(node->val);
+                    if(node->left!=NULL){
+                        dq.push_front(node->left);
                     }
-                    if(curr->left!=NULL){
-                        dq.push_back(curr->left);
+                    if(node->right!=NULL){
+                        dq.push_front(node->right);
                     }
                 }
             }
-            ans.push_back(level);
-            l++;
+            level++;
+            ans.push_back(t);
         }
         return ans;
     }
