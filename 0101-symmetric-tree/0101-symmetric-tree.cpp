@@ -11,20 +11,15 @@
  */
 class Solution {
 public:
-    bool DFS(TreeNode *node1,TreeNode *node2)
+    bool solve(TreeNode *p,TreeNode *q)
     {
-        if(node1==NULL&&node2==NULL){
-            return true;
-        }
-        if((node1==NULL||node2==NULL)||(node1->val!=node2->val)){
-            return false;
-        }
-        return DFS(node1->left,node2->right)&&DFS(node1->right,node2->left);
+        if(p==NULL&&q==NULL) return true;
+        if(p==NULL||q==NULL) return false;
+
+        return p->val==q->val && solve(p->left,q->right) &&solve(p->right,q->left);
     }
     bool isSymmetric(TreeNode* root) {
-        if(root==NULL){
-            return true;
-        }
-        return DFS(root->left,root->right);
+        if(root==NULL) return true;
+        return solve(root->left,root->right);
     }
 };
