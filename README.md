@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/miruddin11/Algorithms/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/miruddin11/Algorithms/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/miruddin11/Algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/miruddin11/Algorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Strongly Connected Component
 |  |
 | ------- |
