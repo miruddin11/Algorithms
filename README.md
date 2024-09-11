@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/miruddin11/Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/miruddin11/Algorithms/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/miruddin11/Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/miruddin11/Algorithms/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/miruddin11/Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/miruddin11/Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/miruddin11/Algorithms/tree/master/0564-find-the-closest-palindrome) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/miruddin11/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/miruddin11/Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/miruddin11/Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/miruddin11/Algorithms/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/miruddin11/Algorithms/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/miruddin11/Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0985-bag-of-tokens](https://github.com/miruddin11/Algorithms/tree/master/0985-bag-of-tokens) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/miruddin11/Algorithms/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/miruddin11/Algorithms/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/miruddin11/Algorithms/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/miruddin11/Algorithms/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/miruddin11/Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/miruddin11/Algorithms/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/miruddin11/Algorithms/tree/master/0583-delete-operation-for-two-strings) |
