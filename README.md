@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/miruddin11/Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/miruddin11/Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/miruddin11/Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/miruddin11/Algorithms/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/miruddin11/Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/miruddin11/Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/miruddin11/Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0226-invert-binary-tree) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/miruddin11/Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/miruddin11/Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/miruddin11/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/miruddin11/Algorithms/tree/master/0725-split-linked-list-in-parts) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/miruddin11/Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0226-invert-binary-tree) |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/miruddin11/Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0226-invert-binary-tree) |
