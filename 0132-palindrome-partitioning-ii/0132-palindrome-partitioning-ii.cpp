@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<vector<int>> dp;
+    vector<int> dp;
     bool isPallindrome(string &s,int i,int j)
     {
         while(i<=j)
@@ -17,7 +17,7 @@ public:
     {
         if(i>=j) return 0;
         if(isPallindrome(s,i,j)) return 0;
-        if(dp[i][j]!=-1) return dp[i][j];
+        if(dp[i]!=-1) return dp[i];
         int mnCuts=INT_MAX;
         for(int k=i;k<=j-1;k++)
         {
@@ -26,11 +26,11 @@ public:
                 mnCuts=min(cuts,mnCuts);
             }
         }
-        return dp[i][j]=mnCuts;
+        return dp[i]=mnCuts;
     }
     int minCut(string s) {
         int n=s.size();
-        dp.resize(n+1,vector<int>(n+1,-1));
+        dp.resize(n+1,-1);
         return solve(0,n-1,s);
     }
 };
