@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/miruddin11/Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/miruddin11/Algorithms/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/miruddin11/Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/miruddin11/Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/miruddin11/Algorithms/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/miruddin11/Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/miruddin11/Algorithms/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/miruddin11/Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/miruddin11/Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/miruddin11/Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/miruddin11/Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/miruddin11/Algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/miruddin11/Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/miruddin11/Algorithms/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/miruddin11/Algorithms/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/miruddin11/Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/miruddin11/Algorithms/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/miruddin11/Algorithms/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/miruddin11/Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/miruddin11/Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/miruddin11/Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -774,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/miruddin11/Algorithms/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/miruddin11/Algorithms/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/miruddin11/Algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/miruddin11/Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/miruddin11/Algorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Strongly Connected Component
 |  |
