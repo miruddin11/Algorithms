@@ -13,17 +13,8 @@ public:
         for(int k=0;k<m;k++){
             int i=queries[k][0];
             int j=queries[k][1];
-            if(i==j) ans[k]=arr[i];
-            else if(i==0) ans[k]=pre[j];
-            else{
-                int c=0;
-                int val=pre[j];
-                while(c<i&&c<n){
-                    val^=arr[c];
-                    c++;
-                }
-                ans[k]=val;
-            }
+            if(i>0) ans[k]=pre[i-1]^pre[j];
+            else ans[k]=pre[j];
         }
         return ans;
     }
