@@ -7,10 +7,12 @@ public:
             arr[i]=arr[i-1]^arr[i];
         }
         int m=queries.size();
-        vector<int> ans;
-        for(auto &q:queries){
-            if(q[0]>0) ans.push_back(arr[q[0]-1]^arr[q[1]]);
-            else ans.push_back(arr[q[1]]);
+        vector<int> ans(m,0);
+        for(int k=0;k<m;k++){
+            int i=queries[k][0];
+            int j=queries[k][1];
+            if(i>0) ans[k]=arr[i-1]^arr[j];
+            else ans[k]=arr[j];
         }
         return ans;
     }
