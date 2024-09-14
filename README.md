@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/miruddin11/Algorithms/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/miruddin11/Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/miruddin11/Algorithms/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/miruddin11/Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/miruddin11/Algorithms/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/miruddin11/Algorithms/tree/master/0118-pascals-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/miruddin11/Algorithms/tree/master/0132-palindrome-partitioning-ii) |
+| [0152-maximum-product-subarray](https://github.com/miruddin11/Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/miruddin11/Algorithms/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/miruddin11/Algorithms/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/miruddin11/Algorithms/tree/master/0392-is-subsequence) |
