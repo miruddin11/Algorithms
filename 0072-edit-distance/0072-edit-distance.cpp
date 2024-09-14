@@ -1,25 +1,26 @@
 class Solution {
 public:
     int dp[501][501];
-    int solve(int i,int j,string &s,string &t)
+    int solve(int m,int n,string &s,string &t)
     {
-        if(i==s.size()){
-            return t.size()-j;
+        if(m==0){
+            return n;
         }
-        if(j==t.size()){
-            return s.size()-i;
+        if(n==0){
+            return m;
         }
-        if(dp[i][j]!=-1) return dp[i][j];
-        if(s[i]==t[j]){
-            return dp[i][j]=solve(i+1,j+1,s,t);
+        if(dp[m][n]!=-1) return dp[m][n];
+        if(s[m-1]==t[n-1]){
+            return dp[m][n]=solve(m-1,n-1,s,t);
         }
-        int replace=1+solve(i+1,j+1,s,t);
-        int del=1+solve(i+1,j,s,t);
-        int insert=1+solve(i,j+1,s,t);
-        return dp[i][j]=min(insert,min(replace,del));
+        int replace=1+solve(m-1,n-1,s,t);
+        int del=1+solve(m-1,n,s,t);
+        int insert=1+solve(m,n-1,s,t);
+        return dp[m][n]=min(insert,min(replace,del));
     }
     int minDistance(string word1, string word2) {
+        int m=word1.size(),n=word2.size();
         memset(dp,-1,sizeof(dp));
-        return solve(0,0,word1,word2);
+        return solve(m,n,word1,word2);
     }
 };
