@@ -1,6 +1,8 @@
 class Solution {
 public:
     int findTheLongestSubstring(string s) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         int n=s.size();
         unordered_map<int,int> mp;
         int mask=0;
