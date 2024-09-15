@@ -12,16 +12,16 @@ public:
                 mask^=1;
             }
             else if(s[i]=='e'){
-                mask^=(1<<1);
+                mask^=2;
             }
             else if(s[i]=='i'){
-                mask^=(1<<2);
+                mask^=4;
             }
             else if(s[i]=='o'){
-                mask^=(1<<3);
+                mask^=8;
             }
             else if(s[i]=='u'){
-                mask^=(1<<4);
+                mask^=16;
             }
             if(mp.find(mask)!=mp.end()){
                 maxLen=max(maxLen,i-mp[mask]);
