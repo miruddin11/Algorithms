@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/miruddin11/Algorithms/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/miruddin11/Algorithms/tree/master/0087-scramble-string) |
 | [0127-word-ladder](https://github.com/miruddin11/Algorithms/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/miruddin11/Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/miruddin11/Algorithms/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/miruddin11/Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/miruddin11/Algorithms/tree/master/0273-integer-to-english-words) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/miruddin11/Algorithms/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/miruddin11/Algorithms/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/miruddin11/Algorithms/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/miruddin11/Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/miruddin11/Algorithms/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/miruddin11/Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/miruddin11/Algorithms/tree/master/0221-maximal-square) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/miruddin11/Algorithms/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/miruddin11/Algorithms/tree/master/0131-palindrome-partitioning) |
 ## Game Theory
 |  |
 | ------- |
