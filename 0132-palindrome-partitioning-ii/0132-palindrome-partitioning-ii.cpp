@@ -1,36 +1,34 @@
 class Solution {
 public:
-    vector<int> dp;
-    bool isPallindrome(string &s,int i,int j)
-    {
-        while(i<=j)
-        {
-            if(s[i]!=s[j]){
-                return false;
-            }
-            i++;
-            j--;
-        }
-        return true;
-    }
-    int solve(int i,int j,string &s)
-    {
-        if(i>=j) return 0;
-        if(isPallindrome(s,i,j)) return 0;
-        if(dp[i]!=-1) return dp[i];
-        int mnCuts=INT_MAX;
-        for(int k=i;k<=j-1;k++)
-        {
-            if(isPallindrome(s,i,k)){
-                int cuts=solve(k+1,j,s)+1;
-                mnCuts=min(cuts,mnCuts);
-            }
-        }
-        return dp[i]=mnCuts;
-    }
     int minCut(string s) {
         int n=s.size();
-        dp.resize(n+1,-1);
-        return solve(0,n-1,s);
+        vector<vector<bool>> t(n,vector<bool>(n,false));
+        for(int L=1;L<=n;L++)
+        {
+            for(int i=0;i+L-1<n;i++)
+            {
+                int j=i+L-1;
+                if(i==j) t[i][j]=true;
+                else if(j==i+1) t[i][j]= (s[i]==s[j]);
+                else t[i][j]= (s[i]==s[j] &&t[i+1][j-1]);
+            }
+        }
+        vector<int> dp(n);
+        for(int i=0;i<n;i++)
+        {
+            if(t[0][i]==true){
+                dp[i]=0;
+            }
+            else{
+                dp[i]=INT_MAX;
+                for(int k=0;k<i;k++)
+                {
+                    if(t[k+1][i]==true&&1+dp[k]<dp[i]){
+                        dp[i]=1+dp[k];
+                    }
+                }
+            }
+        }
+        return dp[n-1];
     }
 };
