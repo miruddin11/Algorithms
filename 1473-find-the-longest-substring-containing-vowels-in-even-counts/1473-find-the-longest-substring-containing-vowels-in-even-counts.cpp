@@ -9,7 +9,7 @@ public:
         for(int i=0;i<n;i++)
         {
             if(s[i]=='a'){
-                mask^=(1<<0);
+                mask^=1;
             }
             else if(s[i]=='e'){
                 mask^=(1<<1);
