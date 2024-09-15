@@ -1,19 +1,18 @@
 class Solution {
 public:
-    int dp[501][501];
-    int solve(int i,int j,string &s)
-    {
-        if(i>=j) return 0;
-        if(dp[i][j]!=-1) return dp[i][j];
-        if(s[i]==s[j]){
-            return dp[i][j]=solve(i+1,j-1,s);
-        }
-
-        return dp[i][j]=1+min(solve(i+1,j,s),solve(i,j-1,s));
-    }
     int minInsertions(string s) {
-        memset(dp,-1,sizeof(dp));
         int n=s.size();
-        return solve(0,n-1,s);
+        vector<vector<int>> dp(n,vector<int>(n));
+        for(int L=1;L<=n;L++)
+        {
+            for(int i=0;i+L-1<n;i++)
+            {
+                int j=i+L-1;
+                if(i==j) dp[i][j]=0;
+                else if(s[i]==s[j]) dp[i][j]=dp[i+1][j-1];
+                else dp[i][j]=1+min(dp[i+1][j],dp[i][j-1]);
+            }
+        }
+        return dp[0][n-1];
     }
 };
