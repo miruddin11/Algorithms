@@ -14,18 +14,17 @@ public:
             }
         }
         vector<int> dp(n);
-        for(int k=0;k<n;k++)
+        for(int i=0;i<n;i++)
         {
-            if(t[0][k]==true){
-                dp[k]=0;
+            if(t[0][i]==true){
+                dp[i]=0;
             }
             else{
-                dp[k]=INT_MAX;
-                for(int i=0;i<k;i++)
+                dp[i]=INT_MAX;
+                for(int k=0;k<i;k++)
                 {
-                    if(t[i+1][k]==true&&dp[i]+1<dp[k])
-                    {
-                        dp[k]=dp[i]+1;
+                    if(t[k+1][i]==true&&1+dp[k]<dp[i]){
+                        dp[i]=1+dp[k];
                     }
                 }
             }
