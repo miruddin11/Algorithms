@@ -6,8 +6,8 @@ public:
         for(int i=0;i<n;i++)
         {
             string s=timePoints[i];
-            int h=stoi(s.substr(0,2));
-            int m=stoi(s.substr(3,2));
+            int h=(s[0]-'0')*10+(s[1]-'0');
+            int m=(s[3]-'0')*10+(s[4]-'0');
             int total_minutes=h*60+m;
             times[i]=total_minutes;
         }
