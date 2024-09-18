@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/miruddin11/Algorithms/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/miruddin11/Algorithms/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/miruddin11/Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/miruddin11/Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/miruddin11/Algorithms/tree/master/0890-lemonade-change) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/miruddin11/Algorithms/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/miruddin11/Algorithms/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/miruddin11/Algorithms/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/miruddin11/Algorithms/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/miruddin11/Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/miruddin11/Algorithms/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/miruddin11/Algorithms/tree/master/0152-maximum-product-subarray) |
+| [0179-largest-number](https://github.com/miruddin11/Algorithms/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/miruddin11/Algorithms/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/miruddin11/Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/miruddin11/Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/miruddin11/Algorithms/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/miruddin11/Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/miruddin11/Algorithms/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/miruddin11/Algorithms/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/miruddin11/Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/miruddin11/Algorithms/tree/master/0392-is-subsequence) |
