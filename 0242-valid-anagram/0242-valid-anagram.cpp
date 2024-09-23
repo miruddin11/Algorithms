@@ -7,12 +7,10 @@ public:
         }
         for(auto &ch:t){
             mp[ch]-=1;
-        }
-        for(auto it:mp){
-            if(it.second!=0){
-                return false;
+            if(mp[ch]==0){
+                mp.erase(ch);
             }
         }
-        return true;
+        return mp.size()==0;
     }
 };
