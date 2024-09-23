@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/miruddin11/Algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/miruddin11/Algorithms/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2727-number-of-senior-citizens](https://github.com/miruddin11/Algorithms/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/miruddin11/Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/miruddin11/Algorithms/tree/master/2846-robot-collisions) |
 | [3113-beautiful-towers-ii](https://github.com/miruddin11/Algorithms/tree/master/3113-beautiful-towers-ii) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/miruddin11/Algorithms/tree/master/3184-maximum-balanced-subsequence-sum) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/miruddin11/Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/miruddin11/Algorithms/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/miruddin11/Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/miruddin11/Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/miruddin11/Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2502-sort-the-people](https://github.com/miruddin11/Algorithms/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/miruddin11/Algorithms/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/miruddin11/Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/miruddin11/Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/miruddin11/Algorithms/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/miruddin11/Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/miruddin11/Algorithms/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/miruddin11/Algorithms/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/miruddin11/Algorithms/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2755-extra-characters-in-a-string](https://github.com/miruddin11/Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/miruddin11/Algorithms/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/miruddin11/Algorithms/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 ## Union Find
@@ -942,4 +946,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/miruddin11/Algorithms/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/miruddin11/Algorithms/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/miruddin11/Algorithms/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
