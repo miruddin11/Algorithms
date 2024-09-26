@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/miruddin11/Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/miruddin11/Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/miruddin11/Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/miruddin11/Algorithms/tree/master/0729-my-calendar-i) |
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/miruddin11/Algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/miruddin11/Algorithms/tree/master/0890-lemonade-change) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/miruddin11/Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/miruddin11/Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/miruddin11/Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/miruddin11/Algorithms/tree/master/0729-my-calendar-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/miruddin11/Algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0923-super-egg-drop](https://github.com/miruddin11/Algorithms/tree/master/0923-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/miruddin11/Algorithms/tree/master/1046-max-consecutive-ones-iii) |
@@ -922,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/miruddin11/Algorithms/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/miruddin11/Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -964,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/miruddin11/Algorithms/tree/master/0729-my-calendar-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/miruddin11/Algorithms/tree/master/3184-maximum-balanced-subsequence-sum) |
 ## Memoization
 |  |
@@ -991,4 +995,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/miruddin11/Algorithms/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/miruddin11/Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/miruddin11/Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/miruddin11/Algorithms/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
