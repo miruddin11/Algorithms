@@ -10,7 +10,7 @@ public:
         currCnt=0;
         front=0;
         rear=K-1;
-        deq.resize(K,0);
+        deq=vector<int>(K,0);
     }
 
     bool insertFront(int value) {
