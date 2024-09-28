@@ -14,7 +14,7 @@ public:
     }
 
     bool insertFront(int value) {
-        if(currCnt==K){
+        if(isFull()){
             return false;
         }
         front=(front-1+K)%K;
@@ -24,7 +24,7 @@ public:
     }
     
     bool insertLast(int value) {
-        if(currCnt==K){
+        if(isFull()){
             return false;
         }
         rear=(rear+1)%K;
@@ -34,7 +34,7 @@ public:
     }
     
     bool deleteFront() {
-        if(currCnt==0){
+        if(isEmpty()){
             return false;
         }
         front=(front+1)%K;
@@ -43,7 +43,7 @@ public:
     }
 
     bool deleteLast() {
-        if(currCnt==0){
+        if(isEmpty()){
             return false;
         }
         rear=(rear-1+K)%K;
@@ -52,14 +52,14 @@ public:
     }
     
     int getFront() {
-        if(currCnt==0){
+        if(isEmpty()){
             return -1;
         }
         return deq[front];
     }
     
     int getRear() {
-        if(currCnt==0){
+        if(isEmpty()){
             return -1;
         }
         return deq[rear];
