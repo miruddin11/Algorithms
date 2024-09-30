@@ -2,8 +2,9 @@ class CustomStack {
 public:
     int size;
     vector<int> v;
+    vector<int> increments;
     CustomStack(int maxSize) {
-        this->size=maxSize;
+        size=maxSize;
     }
     
     void push(int x) {
@@ -11,22 +12,27 @@ public:
             return;
         }
         v.push_back(x);
+        increments.push_back(0);
     }
     
     int pop() {
         if(v.size()==0){
             return -1;
         }
-        int val=v.back();
+        int idx=v.size()-1;
+        if(idx>0){
+            increments[idx-1]+=increments[idx];
+        }
+        int top_val=v[idx]+increments[idx];
         v.pop_back();
-        return val;
+        increments.pop_back();
+        return top_val;
     }
     
     void increment(int k, int val) {
-        int n=v.size();
-        int mn=min(k,n);
-        for(int i=0;i<mn;i++){
-            v[i]+=val;
+        int idx=min(k,(int) v.size())-1;
+        if(idx>=0){
+            increments[idx]+=val;
         }
     }
 };
