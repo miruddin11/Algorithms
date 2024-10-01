@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool canArrange(vector<int>& arr, int k) {
-        unordered_map<int,int> mp;
+        vector<int> mp(k,0);
         for(auto &x:arr)
         {
             int rem=(x%k+k)%k;
