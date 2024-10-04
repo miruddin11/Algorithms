@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long dividePlayers(vector<int>& skill) {
-        unordered_map<int,int> count;
+        vector<int> count(1001,0);
         int sum=0;
         for(auto &x:skill)
         {
@@ -19,7 +19,7 @@ public:
         {
             int currSkill=skill[i];
             int reqSkill=target-currSkill;
-            if(count.find(reqSkill)==count.end()||count[reqSkill]<=0){
+            if(count[reqSkill]<=0){
                 return -1;
             }
             chem+=(long long) currSkill*(long long) reqSkill;
