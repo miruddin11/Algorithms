@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/miruddin11/Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/miruddin11/Algorithms/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/miruddin11/Algorithms/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/miruddin11/Algorithms/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/miruddin11/Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/miruddin11/Algorithms/tree/master/0217-contains-duplicate) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/miruddin11/Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/miruddin11/Algorithms/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/miruddin11/Algorithms/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/miruddin11/Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/miruddin11/Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/miruddin11/Algorithms/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/miruddin11/Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/miruddin11/Algorithms/tree/master/0386-lexicographical-numbers) |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/miruddin11/Algorithms/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/miruddin11/Algorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/miruddin11/Algorithms/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/miruddin11/Algorithms/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/miruddin11/Algorithms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/miruddin11/Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/miruddin11/Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/miruddin11/Algorithms/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/miruddin11/Algorithms/tree/master/0221-maximal-square) |
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/miruddin11/Algorithms/tree/master/0921-spiral-matrix-iii) |
