@@ -1,14 +1,14 @@
 class Solution {
 public:
     int minLength(string s) {
-        stack<char> st;
+        vector<char> st;
         for(auto &x:s)
         {
-            if(!st.empty()&&( (st.top()=='A'&&x=='B') || (st.top()=='C'&&x=='D') ) ){
-                st.pop();
+            if(!st.empty()&&( (st.back()=='A'&&x=='B') || (st.back()=='C'&&x=='D') ) ){
+                st.pop_back();
             }
             else{
-                st.push(x);
+                st.push_back(x);
             }
         }   
         return st.size();
