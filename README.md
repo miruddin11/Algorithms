@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/miruddin11/Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/miruddin11/Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/miruddin11/Algorithms/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/miruddin11/Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/miruddin11/Algorithms/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/miruddin11/Algorithms/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/miruddin11/Algorithms/tree/master/1252-break-a-palindrome) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/miruddin11/Algorithms/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/miruddin11/Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/miruddin11/Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/miruddin11/Algorithms/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/miruddin11/Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/miruddin11/Algorithms/tree/master/1250-longest-common-subsequence) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/miruddin11/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/miruddin11/Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/miruddin11/Algorithms/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/miruddin11/Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
