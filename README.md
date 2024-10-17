@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/miruddin11/Algorithms/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/miruddin11/Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/miruddin11/Algorithms/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/miruddin11/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/miruddin11/Algorithms/tree/master/0152-maximum-product-subarray) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/miruddin11/Algorithms/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/miruddin11/Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/miruddin11/Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/miruddin11/Algorithms/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/miruddin11/Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/miruddin11/Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/miruddin11/Algorithms/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/miruddin11/Algorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/miruddin11/Algorithms/tree/master/0999-regions-cut-by-slashes) |
