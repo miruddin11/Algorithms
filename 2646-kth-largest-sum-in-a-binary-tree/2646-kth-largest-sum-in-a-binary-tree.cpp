@@ -38,9 +38,6 @@ public:
                 pq.pop();
             }
         }
-        if(level<k){
-            return -1;
-        }
-        return pq.top();
+        return (level<k)?-1:pq.top();
     }
 };
