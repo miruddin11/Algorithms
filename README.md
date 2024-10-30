@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/miruddin11/Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/miruddin11/Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/miruddin11/Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/miruddin11/Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/miruddin11/Algorithms/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/miruddin11/Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/miruddin11/Algorithms/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/miruddin11/Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/miruddin11/Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/miruddin11/Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/miruddin11/Algorithms/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/miruddin11/Algorithms/tree/master/1923-sentence-similarity-iii) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/miruddin11/Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/miruddin11/Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/miruddin11/Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/miruddin11/Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/miruddin11/Algorithms/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/miruddin11/Algorithms/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2586-longest-square-streak-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/miruddin11/Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/miruddin11/Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/miruddin11/Algorithms/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/miruddin11/Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/miruddin11/Algorithms/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/miruddin11/Algorithms/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/miruddin11/Algorithms/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
