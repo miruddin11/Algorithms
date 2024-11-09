@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/miruddin11/Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/miruddin11/Algorithms/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/miruddin11/Algorithms/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/miruddin11/Algorithms/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/miruddin11/Algorithms/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/miruddin11/Algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/miruddin11/Algorithms/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/miruddin11/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
+| [0739-daily-temperatures](https://github.com/miruddin11/Algorithms/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/miruddin11/Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/miruddin11/Algorithms/tree/master/1002-maximum-width-ramp) |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/miruddin11/Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/miruddin11/Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/miruddin11/Algorithms/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/miruddin11/Algorithms/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/miruddin11/Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
