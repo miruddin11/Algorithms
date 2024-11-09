@@ -16,15 +16,11 @@ public:
         if(root==NULL){
             return 0;
         }
-        if(root->val>=mx){
-            mx=root->val;
-            int l=solve(root->left,mx);
-            int r=solve(root->right,mx);
-            return  l+r+1;
-        }
+        int ans=(root->val>=mx)?1:0;
+        mx=max(mx,root->val);
         int l=solve(root->left,mx);
         int r=solve(root->right,mx);
-        return l+r;
+        return l+r+ans;
     }
     int goodNodes(TreeNode* root) {
         int mx=INT_MIN;
