@@ -23,7 +23,6 @@ public:
     string serialize(TreeNode* root) {
         string s="";
         dfs(root,s);
-        cout<<s;
         return s;
     }
     // Decodes your encoded data to tree.
