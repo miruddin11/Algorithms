@@ -28,9 +28,7 @@ public:
         int mnDiff=INT_MAX;
         for(int i=1;i<n;i++)
         {
-            if(v[i]-v[i-1]<mnDiff){
-                mnDiff=v[i]-v[i-1];
-            }
+            mnDiff=min(mnDiff,v[i]-v[i-1]);
         }
         return mnDiff;
     }
