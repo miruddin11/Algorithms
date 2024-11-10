@@ -12,27 +12,24 @@
 class Solution {
 public:
     int idx;
-    TreeNode* solve(vector<int>& preorder,vector<int>& inorder,int start,int end)
+    TreeNode* solve(vector<int> &pre,vector<int> &in,int start,int end)
     {
-        if(start>end){
-            return NULL;
-        }
-        int rootVal=preorder[idx];
-        TreeNode* root=new TreeNode(rootVal);
-        int i=start;
-        for(;i<=end;i++){
-            if(inorder[i]==rootVal){
+        if(start>end) return nullptr;
+        TreeNode* root=new TreeNode(pre[idx]);
+        int i;
+        for(i=0;i<pre.size();i++)
+        {
+            if(in[i]==pre[idx]){
                 break;
             }
         }
         idx++;
-        root->left=solve(preorder,inorder,start,i-1);
-        root->right=solve(preorder,inorder,i+1,end);
+        root->left=solve(pre,in,start,i-1);
+        root->right=solve(pre,in,i+1,end);
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int n=inorder.size();
         idx=0;
-        return solve(preorder,inorder,0,n-1);
+        return solve(preorder,inorder,0,inorder.size()-1);
     }
 };
