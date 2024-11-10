@@ -12,17 +12,12 @@
 class Solution {
 public:
     int idx;
+    unordered_map<int,int> mp;
     TreeNode* solve(vector<int> &pre,vector<int> &in,int start,int end)
     {
         if(start>end) return nullptr;
         TreeNode* root=new TreeNode(pre[idx]);
-        int i;
-        for(i=0;i<pre.size();i++)
-        {
-            if(in[i]==pre[idx]){
-                break;
-            }
-        }
+        int i=mp[pre[idx]];
         idx++;
         root->left=solve(pre,in,start,i-1);
         root->right=solve(pre,in,i+1,end);
@@ -30,6 +25,12 @@ public:
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         idx=0;
-        return solve(preorder,inorder,0,inorder.size()-1);
+        mp.clear();
+        int n=preorder.size();
+        for(int i=0;i<n;i++)
+        {
+            mp[inorder[i]]=i;
+        }
+        return solve(preorder,inorder,0,n-1);
     }
 };
