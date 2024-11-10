@@ -25,7 +25,7 @@ public:
             return 0;
         }
         int mxDepth=0;
-        for(auto &child:root->children){
+        for(Node* child:root->children){
             mxDepth=max(mxDepth,maxDepth(child));
         }
         return mxDepth+1;
