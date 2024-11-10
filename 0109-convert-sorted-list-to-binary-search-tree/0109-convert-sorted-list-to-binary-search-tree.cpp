@@ -37,8 +37,8 @@ public:
             slow=slow->next;
             fast=fast->next->next;
         }
-        TreeNode* root=new TreeNode(slow->val);
         slow_prev->next=NULL;
+        TreeNode* root=new TreeNode(slow->val);
         root->left=sortedListToBST(head);
         root->right=sortedListToBST(slow->next);
         return root;
