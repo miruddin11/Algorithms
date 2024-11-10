@@ -24,10 +24,25 @@ public:
         if(root==NULL){
             return 0;
         }
-        int mxDepth=0;
-        for(Node* child:root->children){
-            mxDepth=max(mxDepth,maxDepth(child));
+        queue<Node*> q;
+        q.push(root);
+        int level=0;
+        while(!q.empty())
+        {
+            level++;
+            int size=q.size();
+            while(size--)
+            {
+                Node* node=q.front();
+                q.pop();
+                for(auto nd:node->children)
+                {
+                    if(nd!=NULL){
+                        q.push(nd);
+                    }
+                }
+            }
         }
-        return mxDepth+1;
+        return level;
     }
 };
