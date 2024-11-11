@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/miruddin11/Algorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/miruddin11/Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/miruddin11/Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/miruddin11/Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/miruddin11/Algorithms/tree/master/3195-separate-black-and-white-balls) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/miruddin11/Algorithms/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/miruddin11/Algorithms/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/miruddin11/Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/miruddin11/Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/miruddin11/Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/miruddin11/Algorithms/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/miruddin11/Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/miruddin11/Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/miruddin11/Algorithms/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/miruddin11/Algorithms/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2586-longest-square-streak-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/miruddin11/Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/miruddin11/Algorithms/tree/master/3184-maximum-balanced-subsequence-sum) |
 ## Hash Table
 |  |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/miruddin11/Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/miruddin11/Algorithms/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/miruddin11/Algorithms/tree/master/2645-pass-the-pillow) |
+| [2716-prime-subtraction-operation](https://github.com/miruddin11/Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/miruddin11/Algorithms/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/miruddin11/Algorithms/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3321-type-of-triangle](https://github.com/miruddin11/Algorithms/tree/master/3321-type-of-triangle) |
@@ -1151,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/miruddin11/Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/miruddin11/Algorithms/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/miruddin11/Algorithms/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Bit Manipulation
