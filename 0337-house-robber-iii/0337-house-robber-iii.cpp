@@ -11,27 +11,20 @@
  */
 class Solution {
 public:
-    unordered_map<TreeNode*,int> mp;
-    int rob(TreeNode* root) {
-        if(!root) return 0;
-        if(mp.find(root)!=mp.end()){
-            return mp[root];
-        }
-        // Taking root
-        int rootTaken=root->val;
-        //Left grand children
-        if(root->left){
-            rootTaken+=rob(root->left->left);
-            rootTaken+=rob(root->left->right);
-        }
-        //Right grand children
-        if(root->right){
-            rootTaken+=rob(root->right->left);
-            rootTaken+=rob(root->right->right);
-        }
+    vector<int> solve(TreeNode* root)
+    {
+        if(!root) return {0,0};
+        vector<int> left=solve(root->left);
+        vector<int> right=solve(root->right);
+        //with Root
+        int rootTaken=root->val+left[1]+right[1];
+        //without root
+        int children=max(left[0],left[1])+max(right[0],right[1]);
 
-        //Without root
-        int childSum=rob(root->right)+rob(root->left);
-        return mp[root]=max(rootTaken,childSum);
+        return {rootTaken,children};
+    }
+    int rob(TreeNode* root) {
+        vector<int> ans=solve(root);
+        return max(ans[0],ans[1]);
     }
 };
