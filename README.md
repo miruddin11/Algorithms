@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/miruddin11/Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/miruddin11/Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/miruddin11/Algorithms/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/miruddin11/Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/miruddin11/Algorithms/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/miruddin11/Algorithms/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/miruddin11/Algorithms/tree/master/0087-scramble-string) |
+| [0096-unique-binary-search-trees](https://github.com/miruddin11/Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/miruddin11/Algorithms/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/miruddin11/Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/miruddin11/Algorithms/tree/master/0132-palindrome-partitioning-ii) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/miruddin11/Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/miruddin11/Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/miruddin11/Algorithms/tree/master/0101-symmetric-tree) |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/miruddin11/Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/miruddin11/Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/miruddin11/Algorithms/tree/master/0101-symmetric-tree) |
@@ -1179,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/miruddin11/Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/miruddin11/Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
