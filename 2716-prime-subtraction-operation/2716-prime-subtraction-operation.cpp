@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<bool> isPrime;
+    bool isPrime[1001];
     void seive()
     {
         isPrime[0]=isPrime[1]=false;
@@ -16,7 +16,7 @@ public:
         }
     }
     bool primeSubOperation(vector<int>& nums) {
-        isPrime.resize(1001,true);
+        memset(isPrime,true,sizeof(isPrime));
         seive();
         int n=nums.size();
         for(int i=n-2;i>=0;i--)
