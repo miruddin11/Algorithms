@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/miruddin11/Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/miruddin11/Algorithms/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/miruddin11/Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/miruddin11/Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/miruddin11/Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
@@ -991,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/miruddin11/Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/miruddin11/Algorithms/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/miruddin11/Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/miruddin11/Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/miruddin11/Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0654-maximum-binary-tree) |
@@ -1047,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/miruddin11/Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/miruddin11/Algorithms/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/miruddin11/Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/miruddin11/Algorithms/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/miruddin11/Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0654-maximum-binary-tree) |
@@ -1248,11 +1251,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/miruddin11/Algorithms/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/miruddin11/Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/miruddin11/Algorithms/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/miruddin11/Algorithms/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/miruddin11/Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## Trie
 |  |
 | ------- |
