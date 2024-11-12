@@ -10,25 +10,39 @@
  */
 class Solution {
 public:
-    vector<int> nextLargerNodes(ListNode* head) {
-        vector<int> arr;
-        while(head){
-            arr.push_back(head->val);
-            head=head->next;
-        }
-        int n=arr.size();
-        vector<int> ans(n,0);
-        stack<int> st;
-        for(int i=n-1;i>=0;i--)
+    ListNode* rev(ListNode* head)
+    {
+        ListNode* curr=head;
+        ListNode* next=NULL;
+        ListNode* prev=NULL;
+        while(curr)
         {
-            while(!st.empty()&&st.top()<=arr[i]){
+            next=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=next;
+        }
+        return prev;
+    }
+    vector<int> nextLargerNodes(ListNode* head) {
+        ListNode* newHead=rev(head);
+        vector<int> ans;
+        stack<int> st;
+        while(newHead)
+        {
+            while(!st.empty()&&newHead->val>=st.top()){
                 st.pop();
             }
             if(!st.empty()){
-                ans[i]=st.top();
+                ans.push_back(st.top());
             }
-            st.push(arr[i]);
+            else{
+                ans.push_back(0);
+            }
+            st.push(newHead->val);
+            newHead=newHead->next;
         }
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
