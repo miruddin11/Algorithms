@@ -711,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/miruddin11/Algorithms/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/miruddin11/Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/miruddin11/Algorithms/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/miruddin11/Algorithms/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/miruddin11/Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/miruddin11/Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/miruddin11/Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/miruddin11/Algorithms/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/miruddin11/Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/miruddin11/Algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
