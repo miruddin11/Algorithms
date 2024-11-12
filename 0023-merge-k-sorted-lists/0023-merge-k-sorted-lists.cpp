@@ -22,9 +22,13 @@ public:
             l2->next=mergeTwoList(l1,l2->next);
             return l2;
         }
+        return NULL;
     }
     ListNode* merge(vector<ListNode*> &lists,int s,int e)
     {
+        if(s>e){
+            return NULL;
+        }
         if(s==e) return lists[s];
         int mid=s+(e-s)/2;
         ListNode* l1=merge(lists,s,mid);
@@ -32,7 +36,6 @@ public:
         return mergeTwoList(l1,l2);
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.empty()) return NULL;
         int s=0,e=lists.size()-1;
         return merge(lists,s,e);
     }
