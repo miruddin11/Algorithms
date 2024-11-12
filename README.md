@@ -854,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/miruddin11/Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/miruddin11/Algorithms/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/miruddin11/Algorithms/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/miruddin11/Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/miruddin11/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/miruddin11/Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/miruddin11/Algorithms/tree/master/0273-integer-to-english-words) |
