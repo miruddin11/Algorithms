@@ -36,7 +36,9 @@ public:
         return mergeTwoList(l1,l2);
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int s=0,e=lists.size()-1;
+        int k=lists.size();
+        if(k==0) return NULL;
+        int s=0,e=k-1;
         return merge(lists,s,e);
     }
 };
