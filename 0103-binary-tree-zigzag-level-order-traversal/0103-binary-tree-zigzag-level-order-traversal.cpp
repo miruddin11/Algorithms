@@ -15,22 +15,39 @@ public:
         if(root==NULL){
             return {};
         }
-        queue<TreeNode*> q;
-        q.push(root);
+        deque<TreeNode*> dq;
         vector<vector<int>> ans;
+        dq.push_back(root);
         int level=0;
-        while(!q.empty())
+        while(!dq.empty())
         {
-            int size=q.size();
-            vector<int> t(size);
-            for(int i=0;i<size;i++)
+            int size=dq.size();
+            vector<int> t;
+            while(size--)
             {
-                TreeNode *curr=q.front();
-                q.pop();
-                int idx=(level%2==0)?i:size-1-i;
-                t[idx]=curr->val;
-                if(curr->left!=NULL) q.push(curr->left);
-                if(curr->right!=NULL) q.push(curr->right);
+                if(level%2==1){
+                    TreeNode* node=dq.front();
+                    dq.pop_front();
+                    t.push_back(node->val);
+                    if(node->right!=NULL){
+                        dq.push_back(node->right);
+                    }
+                    if(node->left!=NULL){
+                        dq.push_back(node->left);
+                    }
+                }
+                else
+                {
+                    TreeNode* node=dq.back();
+                    dq.pop_back();
+                    t.push_back(node->val);
+                    if(node->left!=NULL){
+                        dq.push_front(node->left);
+                    }
+                    if(node->right!=NULL){
+                        dq.push_front(node->right);
+                    }
+                }
             }
             level++;
             ans.push_back(t);
