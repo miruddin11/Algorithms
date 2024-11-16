@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/miruddin11/Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/miruddin11/Algorithms/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/miruddin11/Algorithms/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/miruddin11/Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/miruddin11/Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/miruddin11/Algorithms/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/miruddin11/Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/miruddin11/Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
