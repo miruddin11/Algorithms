@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/miruddin11/Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/miruddin11/Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/miruddin11/Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/miruddin11/Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/miruddin11/Algorithms/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/miruddin11/Algorithms/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/miruddin11/Algorithms/tree/master/1325-path-with-maximum-probability) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/miruddin11/Algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/miruddin11/Algorithms/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/miruddin11/Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0921-spiral-matrix-iii](https://github.com/miruddin11/Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/miruddin11/Algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/miruddin11/Algorithms/tree/master/0948-sort-an-array) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/miruddin11/Algorithms/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/miruddin11/Algorithms/tree/master/0731-my-calendar-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/miruddin11/Algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/miruddin11/Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0923-super-egg-drop](https://github.com/miruddin11/Algorithms/tree/master/0923-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/miruddin11/Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/miruddin11/Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -914,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/miruddin11/Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/miruddin11/Algorithms/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/miruddin11/Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/miruddin11/Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/miruddin11/Algorithms/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Stack
@@ -980,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/miruddin11/Algorithms/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/miruddin11/Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/miruddin11/Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/miruddin11/Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/miruddin11/Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/miruddin11/Algorithms/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/miruddin11/Algorithms/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -995,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/miruddin11/Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/miruddin11/Algorithms/tree/master/0525-contiguous-array) |
 | [0731-my-calendar-ii](https://github.com/miruddin11/Algorithms/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/miruddin11/Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/miruddin11/Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/miruddin11/Algorithms/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1122,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/miruddin11/Algorithms/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/miruddin11/Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/miruddin11/Algorithms/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Counting
 |  |
