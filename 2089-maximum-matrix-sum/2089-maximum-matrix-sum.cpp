@@ -1,12 +1,9 @@
 class Solution {
 public:
     long long maxMatrixSum(vector<vector<int>>& matrix) {
-        int m=matrix.size();
-        int n=matrix[0].size();
-        int cntNeg=0;
-        int minNo=INT_MAX;
+        int n=matrix.size(),cntNeg=0,minNo=INT_MAX;
         long long sum=0;
-        for(int i=0;i<m;i++)
+        for(int i=0;i<n;i++)
         {
             for(int j=0;j<n;j++)
             {
