@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/miruddin11/Algorithms/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/miruddin11/Algorithms/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/miruddin11/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [0787-sliding-puzzle](https://github.com/miruddin11/Algorithms/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/miruddin11/Algorithms/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/miruddin11/Algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/miruddin11/Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/miruddin11/Algorithms/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0787-sliding-puzzle](https://github.com/miruddin11/Algorithms/tree/master/0787-sliding-puzzle) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/miruddin11/Algorithms/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/miruddin11/Algorithms/tree/master/0999-regions-cut-by-slashes) |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/miruddin11/Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/miruddin11/Algorithms/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/miruddin11/Algorithms/tree/master/0221-maximal-square) |
+| [0787-sliding-puzzle](https://github.com/miruddin11/Algorithms/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/miruddin11/Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/miruddin11/Algorithms/tree/master/0999-regions-cut-by-slashes) |
