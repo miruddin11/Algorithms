@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/miruddin11/Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/miruddin11/Algorithms/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/miruddin11/Algorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/miruddin11/Algorithms/tree/master/1325-path-with-maximum-probability) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/miruddin11/Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/miruddin11/Algorithms/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/miruddin11/Algorithms/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/miruddin11/Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/miruddin11/Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/miruddin11/Algorithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/miruddin11/Algorithms/tree/master/0368-largest-divisible-subset) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/miruddin11/Algorithms/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/miruddin11/Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0513-find-bottom-left-tree-value](https://github.com/miruddin11/Algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/miruddin11/Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/miruddin11/Algorithms/tree/master/0617-merge-two-binary-trees) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/miruddin11/Algorithms/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/miruddin11/Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/miruddin11/Algorithms/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/miruddin11/Algorithms/tree/master/0386-lexicographical-numbers) |
 | [0513-find-bottom-left-tree-value](https://github.com/miruddin11/Algorithms/tree/master/0513-find-bottom-left-tree-value) |
@@ -762,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/miruddin11/Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/miruddin11/Algorithms/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/miruddin11/Algorithms/tree/master/2472-build-a-matrix-with-conditions) |
 ## Two Pointers
@@ -857,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/miruddin11/Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/miruddin11/Algorithms/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/miruddin11/Algorithms/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/miruddin11/Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/miruddin11/Algorithms/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/miruddin11/Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/miruddin11/Algorithms/tree/master/0392-is-subsequence) |
@@ -1012,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/miruddin11/Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/miruddin11/Algorithms/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/miruddin11/Algorithms/tree/master/0221-maximal-square) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/miruddin11/Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-sliding-puzzle](https://github.com/miruddin11/Algorithms/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/miruddin11/Algorithms/tree/master/0921-spiral-matrix-iii) |
@@ -1363,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/miruddin11/Algorithms/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/miruddin11/Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/miruddin11/Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Rolling Hash
 |  |
 | ------- |
