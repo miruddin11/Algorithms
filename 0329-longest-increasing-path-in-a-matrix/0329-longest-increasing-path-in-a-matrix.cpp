@@ -11,10 +11,10 @@ public:
             int ans=1;
             for(auto &d:dir)
             {
-                int di=i+d.first;
-                int dj=j+d.second;
-                if(di>=0&&di<m&&dj>=0&&dj<n&&matrix[di][dj]>matrix[i][j]){
-                    ans=max(ans,1+dfs(di,dj));
+                int x=i+d.first;
+                int y=j+d.second;
+                if(x>=0 && x<m && y>=0 && y<n && matrix[x][y]> matrix[i][j] ){
+                    ans=max(ans,1+dfs(x,y));
                 }
             }
             return dp[i][j]=ans;
