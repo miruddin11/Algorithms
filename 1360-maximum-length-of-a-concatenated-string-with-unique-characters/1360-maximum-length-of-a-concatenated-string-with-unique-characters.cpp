@@ -18,10 +18,14 @@ public:
         }
         return false;
     }
+    unordered_map<string,int> mp;
     int solve(int idx,string temp,int n,vector<string> &arr)
     {
         if(idx==n){
             return temp.size();
+        }
+        if(mp.find(temp)!=mp.end()){
+            return mp[temp];
         }
         int include=0;
         int exclude=0;
@@ -33,11 +37,12 @@ public:
             exclude=solve(idx+1,temp,n,arr);
             include=solve(idx+1,temp+arr[idx],n,arr);
         }
-        return max(include,exclude);
+        return mp[temp]=max(include,exclude);
     }
     int maxLength(vector<string>& arr) {
         string temp="";
         int n=arr.size();
+        mp.clear();
         return solve(0,temp,n,arr);
     }
 };
