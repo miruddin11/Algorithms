@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/miruddin11/Algorithms/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/miruddin11/Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/miruddin11/Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/miruddin11/Algorithms/tree/master/3427-special-array-ii) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/miruddin11/Algorithms/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/miruddin11/Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/miruddin11/Algorithms/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/miruddin11/Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/miruddin11/Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/miruddin11/Algorithms/tree/master/3184-maximum-balanced-subsequence-sum) |
+| [3427-special-array-ii](https://github.com/miruddin11/Algorithms/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1093,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/miruddin11/Algorithms/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/miruddin11/Algorithms/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/miruddin11/Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3427-special-array-ii](https://github.com/miruddin11/Algorithms/tree/master/3427-special-array-ii) |
 ## Tree
 |  |
 | ------- |
