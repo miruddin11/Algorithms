@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/miruddin11/Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/miruddin11/Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/miruddin11/Algorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/miruddin11/Algorithms/tree/master/2089-maximum-matrix-sum) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/miruddin11/Algorithms/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/miruddin11/Algorithms/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/miruddin11/Algorithms/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/miruddin11/Algorithms/tree/master/1325-path-with-maximum-probability) |
+| [1917-maximum-average-pass-ratio](https://github.com/miruddin11/Algorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/miruddin11/Algorithms/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/miruddin11/Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/miruddin11/Algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/miruddin11/Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/miruddin11/Algorithms/tree/master/1803-average-waiting-time) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/miruddin11/Algorithms/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/miruddin11/Algorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/miruddin11/Algorithms/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/miruddin11/Algorithms/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/miruddin11/Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
