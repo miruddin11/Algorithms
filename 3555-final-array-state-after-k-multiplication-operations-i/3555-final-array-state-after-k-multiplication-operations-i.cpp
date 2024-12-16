@@ -13,9 +13,8 @@ public:
             int mn=pq.top().first;
             int idx=pq.top().second;
             pq.pop();
-            int v=mn*multiplier;
-            nums[idx]=v;
-            pq.push({v,idx});
+            nums[idx]=mn*multiplier;
+            pq.push({nums[idx],idx});
         }
         return nums;
     }
