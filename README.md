@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/miruddin11/Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/miruddin11/Algorithms/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1063-best-sightseeing-pair](https://github.com/miruddin11/Algorithms/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/miruddin11/Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1129-longest-string-chain](https://github.com/miruddin11/Algorithms/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/miruddin11/Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -931,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/miruddin11/Algorithms/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0923-super-egg-drop](https://github.com/miruddin11/Algorithms/tree/master/0923-super-egg-drop) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/miruddin11/Algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1063-best-sightseeing-pair](https://github.com/miruddin11/Algorithms/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/miruddin11/Algorithms/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/miruddin11/Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/miruddin11/Algorithms/tree/master/1196-filling-bookcase-shelves) |
