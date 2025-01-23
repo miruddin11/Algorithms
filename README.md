@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/miruddin11/Algorithms/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/miruddin11/Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/miruddin11/Algorithms/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1396-count-servers-that-communicate](https://github.com/miruddin11/Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/miruddin11/Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/miruddin11/Algorithms/tree/master/1435-xor-queries-of-a-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/miruddin11/Algorithms/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/miruddin11/Algorithms/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/miruddin11/Algorithms/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1396-count-servers-that-communicate](https://github.com/miruddin11/Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/miruddin11/Algorithms/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/miruddin11/Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/miruddin11/Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/miruddin11/Algorithms/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/miruddin11/Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/miruddin11/Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/miruddin11/Algorithms/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/miruddin11/Algorithms/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/miruddin11/Algorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/miruddin11/Algorithms/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/miruddin11/Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/miruddin11/Algorithms/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/miruddin11/Algorithms/tree/master/2035-count-sub-islands) |
 ## Simulation
@@ -1141,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/miruddin11/Algorithms/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/miruddin11/Algorithms/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/miruddin11/Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/miruddin11/Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/miruddin11/Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/miruddin11/Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/miruddin11/Algorithms/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -1343,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/miruddin11/Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/miruddin11/Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/miruddin11/Algorithms/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1396-count-servers-that-communicate](https://github.com/miruddin11/Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/miruddin11/Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/miruddin11/Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/miruddin11/Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
