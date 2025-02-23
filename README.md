@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/miruddin11/Algorithms/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/miruddin11/Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0921-spiral-matrix-iii](https://github.com/miruddin11/Algorithms/tree/master/0921-spiral-matrix-iii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/miruddin11/Algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/miruddin11/Algorithms/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/miruddin11/Algorithms/tree/master/0952-word-subsets) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/miruddin11/Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/miruddin11/Algorithms/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/miruddin11/Algorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/miruddin11/Algorithms/tree/master/0999-regions-cut-by-slashes) |
@@ -1308,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/miruddin11/Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/miruddin11/Algorithms/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/miruddin11/Algorithms/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/1035-cousins-in-binary-tree) |
@@ -1368,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/miruddin11/Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/miruddin11/Algorithms/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/miruddin11/Algorithms/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/1035-cousins-in-binary-tree) |
@@ -1443,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/miruddin11/Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0654-maximum-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/miruddin11/Algorithms/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
