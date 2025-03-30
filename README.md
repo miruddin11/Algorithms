@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/miruddin11/Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/miruddin11/Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/miruddin11/Algorithms/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/miruddin11/Algorithms/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/miruddin11/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/miruddin11/Algorithms/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/miruddin11/Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/miruddin11/Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/miruddin11/Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/miruddin11/Algorithms/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/miruddin11/Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/miruddin11/Algorithms/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/miruddin11/Algorithms/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/miruddin11/Algorithms/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/miruddin11/Algorithms/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/miruddin11/Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/miruddin11/Algorithms/tree/master/0952-word-subsets) |
@@ -979,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/miruddin11/Algorithms/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/miruddin11/Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/miruddin11/Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/miruddin11/Algorithms/tree/master/0768-partition-labels) |
 | [0985-bag-of-tokens](https://github.com/miruddin11/Algorithms/tree/master/0985-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/miruddin11/Algorithms/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/miruddin11/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
