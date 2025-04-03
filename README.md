@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/miruddin11/Algorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/miruddin11/Algorithms/tree/master/3001-apply-operations-to-maximize-score) |
 | [3113-beautiful-towers-ii](https://github.com/miruddin11/Algorithms/tree/master/3113-beautiful-towers-ii) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/miruddin11/Algorithms/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/miruddin11/Algorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/miruddin11/Algorithms/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/miruddin11/Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
