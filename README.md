@@ -1051,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/miruddin11/Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/miruddin11/Algorithms/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/miruddin11/Algorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/miruddin11/Algorithms/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/miruddin11/Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/miruddin11/Algorithms/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/miruddin11/Algorithms/tree/master/2716-prime-subtraction-operation) |
@@ -1128,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/miruddin11/Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/miruddin11/Algorithms/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2262-solving-questions-with-brainpower](https://github.com/miruddin11/Algorithms/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/miruddin11/Algorithms/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/miruddin11/Algorithms/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/miruddin11/Algorithms/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1593,6 +1595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/miruddin11/Algorithms/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/miruddin11/Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/miruddin11/Algorithms/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/miruddin11/Algorithms/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1771,5 +1774,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/miruddin11/Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/miruddin11/Algorithms/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/miruddin11/Algorithms/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
