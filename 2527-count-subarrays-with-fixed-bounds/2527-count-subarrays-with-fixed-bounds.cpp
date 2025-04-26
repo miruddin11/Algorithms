@@ -1,19 +1,25 @@
+auto init = []()
+{ 
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
 class Solution {
 public:
     long long countSubarrays(vector<int>& nums, int minK, int maxK) {
         long long ans=0;
-        int minKposition=-1;
-        int maxKposition=-1;
-        int culpritIdx=-1;
-        for(int i=0;i<nums.size();i++)
-        {
-            if(nums[i]>maxK || nums[i]<minK) culpritIdx=i;
-            if(nums[i]==maxK) maxKposition=i;
-            if(nums[i]==minK) minKposition=i;
-
-            long long smaller=min(minKposition,maxKposition);
-            long long temp=smaller-culpritIdx;
-            ans+=(temp<=0)? 0LL: temp;
+        int maxi=-1, mini=-1;
+        int s=nums.size();
+        for(int r=0, l=0; r<s; r++){
+            int x=nums[r];
+            if (x<minK ||x>maxK){// x exceeds the bound
+                l=r+1; // move l to r+1
+                continue;
+            }
+            if (x==maxK) maxi=r; // position for maxK
+            if (x==minK) mini=r; // position for minK
+            ans+=max((min(maxi, mini)-l+1),0);
         }
         return ans;
     }
