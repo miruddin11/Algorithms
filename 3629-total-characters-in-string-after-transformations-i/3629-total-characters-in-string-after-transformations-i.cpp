@@ -1,24 +1,30 @@
-const int mod = 1e9 + 7;
-int mod_add(int a, int b) {a = a % mod; b = b % mod; return (((a + b) % mod) + mod) % mod;}
 class Solution {
 public:
+    const int M=1e9+7;
     int lengthAfterTransformations(string s, int t) {
-        int nums[26] = {0};
-        for (char ch : s) nums[ch - 'a']++;
-        while (t--) {
-            int cur[26] = {0};
-            for (int j = 0; j < 26; j++) {
-                if (j == 25 && nums[j] > 0) {
-                    cur[0] = mod_add(cur[0], nums[j]);
-                    cur[1] = mod_add(cur[1], nums[j]);
-                } else {
-                    if (j < 25) cur[j + 1] = mod_add(cur[j + 1], nums[j]);
+        vector<int> mp(26,0);
+        int len=0;
+        for(auto &ch:s) mp[ch-'a']+=1;
+        for(int i=0;i<t;i++)
+        {
+            vector<int> t(26,0);
+            for(int j=0;j<26;j++)
+            {
+                char ch=(char)('a'+j);
+                int freq=mp[j];
+                if(ch=='z'){
+                    t[0]=(t[0]+freq)%M;
+                    t[1]=(t[1]+freq)%M;
+                }
+                else{
+                    t[ch+1-'a']=(t[ch+1-'a']+freq)%M;;
                 }
             }
-            for (int j = 0; j < 26; j++) nums[j] = cur[j];
+            mp=move(t);
         }
-        int ans = 0;
-        for (int i : nums) ans = mod_add(ans, i);
-        return (int)ans;
+        for(int i=0;i<26;i++){
+            len=(len+mp[i])%M;
+        }
+        return len;
     }
 };
