@@ -1,57 +1,77 @@
 class Solution {
 public:
-    typedef long long ll;
-    const int mod = 1e9 + 7;
-    vector<vector<ll>> multiplyMatrices(const vector<vector<ll>> &A, const vector<vector<ll>> &B) {
-        int rowsA = A.size(), colsA = A[0].size(), colsB = B[0].size();
-        vector<vector<__int128_t>> temp(rowsA, vector<__int128_t>(colsB, 0));
-        vector<vector<ll>> result(rowsA, vector<ll>(colsB, 0));
-
-        for (int i = 0; i < rowsA; i++) {
-            for (int j = 0; j < colsB; j++) {
-                for (int k = 0; k < colsA; k++) {
-                    temp[i][j] += A[i][k] * B[k][j];
+    typedef vector<vector<int>> Matrix;
+    const int M = 1e9+7;
+    Matrix matrixMultiplication(Matrix &A, Matrix &B)
+    {
+        Matrix C(26, vector<int>(26, 0));
+        for(int i = 0; i < 26; i++)
+        {
+            for(int j = 0; j < 26; j++)
+            {
+                for(int k = 0; k< 26; k++)
+                {
+                    C[i][j] = (C[i][j] + (1LL * A[i][k] * B[k][j]) % M) % M;
                 }
-                result[i][j] = temp[i][j] % mod;
             }
         }
-        return result;
+        return C;
     }
-
-    vector<vector<ll>> powerMatrix(vector<vector<ll>> matrix, ll exponent) {
-        vector<vector<ll>> result(matrix.size(), vector<ll>(matrix.size(), 0));
-
-        for (int i = 0; i < matrix.size(); i++) result[i][i] = 1;
-
-        while (exponent > 0) {
-            if (exponent % 2 == 1) result = multiplyMatrices(result, matrix);
-            matrix = multiplyMatrices(matrix, matrix);
-            exponent /= 2;
+    Matrix matrixExponentiation(Matrix &base, int exponent)
+    {
+        if(exponent == 0){
+            Matrix I(26, vector<int>(26, 0));
+            for(int i = 0; i < 26; i++)
+            {
+                I[i][i] = 1;
+            }
+            return I;
+        }
+        Matrix half = matrixExponentiation(base, exponent/2);
+        Matrix result = matrixMultiplication(half, half);
+        if(exponent % 2 == 1){
+            result = matrixMultiplication(result, base);
         }
         return result;
     }
     int lengthAfterTransformations(string s, int t, vector<int>& nums) {
-        vector<vector<ll>> transform(26, vector<ll>(26, 0));
+        // final freq state = T^t * Initial freq state
+        // Initial frequency 
+        vector<int> freq(26, 0);
+        for(char &ch : s)
+        {
+            freq[ch - 'a']++;
+        }
 
-        for (int i = 0; i < 26; i++) {
-            for (int shift = 0; shift < nums[i]; shift++) {
-                transform[i][(i + 1 + shift) % 26]++;
+        // Now form T matrix
+        Matrix T(26, vector<int>(26, 0));
+        for(int i = 0; i < 26; i++)
+        {
+            for(int add = 1; add <= nums[i]; add++)
+            {
+                T[(i + add) % 26][i]++; // mod 26 for wrap around
             }
         }
 
-        transform = powerMatrix(transform, t);
-        vector<vector<ll>> freq(1, vector<ll>(26, 0));
-        for (char ch : s) {
-            freq[0][ch - 'a']++;
-        }
 
-        freq = multiplyMatrices(freq, transform);
-        int totalLength = 0;
-        for (int count : freq[0]) {
-            totalLength += count;
-            if (totalLength >= mod) totalLength -= mod;
-        }
+        // find T^t
+        Matrix result = matrixExponentiation(T, t);
 
-        return totalLength;
+        vector<int> updated_freq(26, 0);
+
+        for(int i = 0; i < 26; i++)
+        {
+            for(int j = 0; j < 26; j++)
+            {
+                updated_freq[i] = (updated_freq[i] + (1LL * result[i][j] * freq[j]) % M) % M;
+            }
+        }
+        
+        int finalLength = 0;
+        for(int i = 0; i < 26; i++)
+        {
+            finalLength = (finalLength + updated_freq[i]) % M;
+        }
+        return finalLength;
     }
 };
