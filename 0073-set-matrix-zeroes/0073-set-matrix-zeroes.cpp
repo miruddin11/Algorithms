@@ -1,51 +1,25 @@
-static int speedup = []() {
-	ios::sync_with_stdio(false);
-	cin.tie(nullptr);
-	cout.tie(0);
-	return 0;
-}();
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        int n=matrix.size();
-        int m=matrix[0].size();
-        vector<vector<int>> vis(n,vector<int>(m,1));
+        int n=matrix.size(),m=matrix[0].size();
+        vector<vector<int>> vis(n,vector<int>(m,0));
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
-                if(matrix[i][j]==0 && vis[i][j])
-                {
-                    int row=i;
-                    while(row>=0){
-                        if(matrix[row][j]!=0)
-                        vis[row][j]=false;
-                        matrix[row][j]=0;
-                        row--;
+                if(matrix[i][j]==0&&vis[i][j]==0){
+                    for(int k=0;k<n;k++){
+                        if(matrix[k][j]!=0){
+                            matrix[k][j]=0;
+                            vis[k][j]=1;
+                        }
                     }
-                    row=i;
-                    while(row<n)
-                    {
-                        if(matrix[row][j]!=0)
-                        vis[row][j]=false;
-                        matrix[row][j]=0;
-                        row++;
-                    }
-                    int col=j;
-                    while(col>=0)
-                    {
-                        if(matrix[i][col]!=0)
-                        vis[i][col]=false;
-                        matrix[i][col]=0;
-                        col--;
-                    }
-                    col=j;
-                    while(col<m)
-                    {
-                        if(matrix[i][col]!=0)
-                        vis[i][col]=false;
-                        matrix[i][col]=0;
-                        col++;
+                    for(int k=0;k<m;k++){
+                        if(matrix[i][k]!=0)
+                        {
+                            matrix[i][k]=0;
+                            vis[i][k]=1;
+                        }
                     }
                 }
             }
