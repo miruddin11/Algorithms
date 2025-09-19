@@ -1,56 +1,41 @@
-#pragma GCC optimize("O3,unroll-loops,Ofast")
-#pragma GCC target("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx")
-static const auto mir = []() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 0;
-}();
 class TaskManager {
 public:
-    set<pair<int, int>> priorityTask;
-    unordered_map<int, int> taskPriority;
-    unordered_map<int, unordered_set<int>> userTask;
-    unordered_map<int, int> taskUser;
+    unordered_map<int, int> taskPriorityMap;
+    priority_queue<pair<int, int>> priorityTaskIdMaxHeap;
+    unordered_map<int, int> taskUserIdMap;
     TaskManager(vector<vector<int>>& tasks) {
-        for (auto& task : tasks) {
-            int userId = task[0];
-            int taskId = task[1];
-            int priority = task[2];
+        for (auto& t : tasks) {
+            int userId = t[0];
+            int taskId = t[1];
+            int priority = t[2];
             add(userId, taskId, priority);
         }
     }
 
     void add(int userId, int taskId, int priority) {
-        priorityTask.insert({priority, taskId});
-        taskPriority[taskId] = priority;
-        userTask[userId].insert(taskId);
-        taskUser[taskId] = userId;
+        taskPriorityMap[taskId] = priority;
+        priorityTaskIdMaxHeap.push({priority, taskId});
+        taskUserIdMap[taskId] = userId;
     }
 
     void edit(int taskId, int newPriority) {
-        int oldPriority = taskPriority[taskId];
-        taskPriority[taskId] = newPriority;
-        priorityTask.erase({oldPriority, taskId});
-        priorityTask.insert({newPriority, taskId});
+        taskPriorityMap[taskId] = newPriority;
+        priorityTaskIdMaxHeap.push({newPriority, taskId});
     }
 
-    void rmv(int taskId) {
-        int priority = taskPriority[taskId];
-        priorityTask.erase({priority, taskId});
-        int userId = taskUser[taskId];
-        userTask[userId].erase(taskId);
-        taskPriority.erase(taskId);
-        taskUser.erase(taskId);
-    }
+    void rmv(int taskId) { taskPriorityMap[taskId] = -1; }
 
     int execTop() {
-        if (priorityTask.empty())
-            return -1;
-        int taskId = priorityTask.rbegin()->second;
-        int userId = taskUser[taskId];
-        rmv(taskId);
-        return userId;
+        while (!priorityTaskIdMaxHeap.empty()) {
+            int priority = priorityTaskIdMaxHeap.top().first;
+            int taskId = priorityTaskIdMaxHeap.top().second;
+            priorityTaskIdMaxHeap.pop();
+            if (priority == taskPriorityMap[taskId]) {
+                rmv(taskId);
+                return taskUserIdMap[taskId];
+            }
+        }
+        return -1;
     }
 };
 
