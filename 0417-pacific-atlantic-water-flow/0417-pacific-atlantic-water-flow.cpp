@@ -11,7 +11,7 @@ public:
             for(auto &dir:directions){
                 int x_=x+dir[0],y_=y+dir[1];
                 if(x_<0||x_>=n||y_<0||y_>=m||vis[x_][y_]==true) continue;
-                if(heights[x_][y_]<heights[x][y]) continue;
+                if(heights[x_][y_]<heights[x][y]) continue; // if the curr heights are smaller so that they can reach the boundaries that are connected to oceans
                 vis[x_][y_]=true;
                 q.push({x_,y_});
             }
