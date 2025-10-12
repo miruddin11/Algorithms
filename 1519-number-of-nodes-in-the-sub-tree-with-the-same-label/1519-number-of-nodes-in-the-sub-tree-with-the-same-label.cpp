@@ -3,7 +3,7 @@ public:
     vector<int> ans;
     vector<int> dfs(int u,int parent,unordered_map<int,vector<int>> &adj,string &labels){
         vector<int> myCount(26,0);
-        int myLabel=labels[u];
+        char myLabel=labels[u];
         myCount[myLabel-'a']=1;
         for(auto &v:adj[u]){
             if(v!=parent){
@@ -16,7 +16,7 @@ public:
         ans[u]=myCount[myLabel-'a'];
         return myCount;
     }
-    vector<int> countSubTrees(int n, vector<vector<int>>& edges, string labels) {
+    vector<int> countSubTrees(int n, vector<vector<int>>& edges, string labels) { 
         ans.resize(n,0);
         unordered_map<int,vector<int>> adj;
         for(auto &e:edges){
