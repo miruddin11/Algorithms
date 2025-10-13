@@ -1,7 +1,7 @@
+const int M=1e9+7;
 class Solution {
 public:
     typedef long long ll;
-    const int M=1e9+7;
     vector<ll> fact,invFact;
     ll findPower(ll a,ll b){
         ll result=1LL;
