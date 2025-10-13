@@ -1,13 +1,22 @@
 class Solution {
 public:
     typedef long long ll;
-    void dfs(int u,unordered_map<int,vector<int>> &adj,unordered_set<int> &vis){
-        vis.insert(u);
-        for(int v:adj[u]){
-            if(vis.count(v)==0){
-                dfs(v,adj,vis);
+    int bfs(int node,unordered_map<int,vector<int>> &adj){
+        queue<int> q;
+        unordered_set<int> vis;
+        q.push(node);
+        vis.insert(node);
+        while(!q.empty()){
+            int u=q.front();
+            q.pop();
+            for(int v:adj[u]){
+                if(vis.count(v)==0){
+                    q.push(v);
+                    vis.insert(v);
+                }
             }
         }
+        return vis.size();
     }
     int maximumDetonation(vector<vector<int>>& bombs) {
         int n=bombs.size();
@@ -25,11 +34,8 @@ public:
             }
         }
         int maxCount=0;
-        unordered_set<int> vis;
         for(int i=0;i<n;i++){
-            vis.clear();
-            dfs(i,adj,vis);
-            int count=vis.size();
+            int count=bfs(i,adj);
             maxCount=max(maxCount,count);
         }
         return maxCount;
