@@ -11,32 +11,17 @@
  */
 class Solution {
 public:
-    vector<string> values;
-    void solve(TreeNode* root , string s) {
+    int solve(TreeNode* root , int sum) {
         if(root == nullptr) {
-            return;
+            return 0;
         }
-        s += to_string(root->val);
+        sum = sum * 2 + root->val;
         if(root->left == nullptr && root->right == nullptr) {
-            values.push_back(s);
+            return sum;
         }
-        solve(root->left , s);
-        solve(root->right , s);
-    }
-    int toBin(string a){
-        int bin = 0;
-        for(auto &c : a) {
-            bin = (bin << 1) + (c - '0');
-        }
-        return bin;
+        return solve(root->left , sum) + solve(root->right , sum);
     }
     int sumRootToLeaf(TreeNode* root) {
-        values.clear();
-        solve(root , "");
-        int ans = 0;
-        for(auto &val : values) {
-            ans += toBin(val);
-        }
-        return ans;
+        return solve(root , 0);
     }
 };
