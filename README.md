@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/miruddin11/Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/miruddin11/Algorithms/tree/master/2249-count-the-hidden-sequences) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/miruddin11/Algorithms/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/miruddin11/Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/miruddin11/Algorithms/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/miruddin11/Algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/miruddin11/Algorithms/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/miruddin11/Algorithms/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2300-construct-string-with-repeat-limit](https://github.com/miruddin11/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/miruddin11/Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/miruddin11/Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1126,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/miruddin11/Algorithms/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/miruddin11/Algorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/miruddin11/Algorithms/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/miruddin11/Algorithms/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/miruddin11/Algorithms/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/miruddin11/Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/miruddin11/Algorithms/tree/master/2645-pass-the-pillow) |
@@ -1698,6 +1701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/miruddin11/Algorithms/tree/master/1349-check-if-it-is-a-straight-line) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/miruddin11/Algorithms/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1880,6 +1884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/miruddin11/Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/miruddin11/Algorithms/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/miruddin11/Algorithms/tree/master/2215-finding-3-digit-even-numbers) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/miruddin11/Algorithms/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [3201-distribute-candies-among-children-ii](https://github.com/miruddin11/Algorithms/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/miruddin11/Algorithms/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/miruddin11/Algorithms/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
