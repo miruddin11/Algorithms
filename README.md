@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/miruddin11/Algorithms/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/miruddin11/Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/miruddin11/Algorithms/tree/master/1720-crawler-log-folder) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/miruddin11/Algorithms/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1741-sort-array-by-increasing-frequency](https://github.com/miruddin11/Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/miruddin11/Algorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/miruddin11/Algorithms/tree/master/1755-defuse-the-bomb) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/miruddin11/Algorithms/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/miruddin11/Algorithms/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/miruddin11/Algorithms/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/miruddin11/Algorithms/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2035-count-sub-islands](https://github.com/miruddin11/Algorithms/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/miruddin11/Algorithms/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/miruddin11/Algorithms/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -1914,4 +1916,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/miruddin11/Algorithms/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/miruddin11/Algorithms/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 <!---LeetCode Topics End-->
