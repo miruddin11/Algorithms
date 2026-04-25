@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/miruddin11/Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/miruddin11/Algorithms/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/miruddin11/Algorithms/tree/master/3430-count-days-without-meetings) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/miruddin11/Algorithms/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3647-zero-array-transformation-iii](https://github.com/miruddin11/Algorithms/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/miruddin11/Algorithms/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/miruddin11/Algorithms/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/miruddin11/Algorithms/tree/master/3430-count-days-without-meetings) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/miruddin11/Algorithms/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/miruddin11/Algorithms/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/miruddin11/Algorithms/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/miruddin11/Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/miruddin11/Algorithms/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/miruddin11/Algorithms/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/miruddin11/Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/miruddin11/Algorithms/tree/master/3427-special-array-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/miruddin11/Algorithms/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1148,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/miruddin11/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/miruddin11/Algorithms/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3321-type-of-triangle](https://github.com/miruddin11/Algorithms/tree/master/3321-type-of-triangle) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/miruddin11/Algorithms/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/miruddin11/Algorithms/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/miruddin11/Algorithms/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3548-find-the-count-of-good-integers](https://github.com/miruddin11/Algorithms/tree/master/3548-find-the-count-of-good-integers) |
@@ -1713,6 +1717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/miruddin11/Algorithms/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/miruddin11/Algorithms/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/miruddin11/Algorithms/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
