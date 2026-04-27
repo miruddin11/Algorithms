@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/miruddin11/Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/miruddin11/Algorithms/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/miruddin11/Algorithms/tree/master/1364-tuple-with-same-product) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/miruddin11/Algorithms/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/miruddin11/Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/miruddin11/Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/miruddin11/Algorithms/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -958,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/miruddin11/Algorithms/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/miruddin11/Algorithms/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/miruddin11/Algorithms/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/miruddin11/Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/miruddin11/Algorithms/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/1484-linked-list-in-binary-tree) |
@@ -1028,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/miruddin11/Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/miruddin11/Algorithms/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/miruddin11/Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/miruddin11/Algorithms/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/miruddin11/Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/miruddin11/Algorithms/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/1484-linked-list-in-binary-tree) |
@@ -1399,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/miruddin11/Algorithms/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/miruddin11/Algorithms/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/miruddin11/Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/miruddin11/Algorithms/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/miruddin11/Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/miruddin11/Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/miruddin11/Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1931,6 +1935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/miruddin11/Algorithms/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/miruddin11/Algorithms/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/miruddin11/Algorithms/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 <!---LeetCode Topics End-->
