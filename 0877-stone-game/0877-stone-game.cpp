@@ -13,13 +13,14 @@ public:
             int fromRight = piles[right] + solve(left, right - 1, false, piles);
             return dp[left][right][turn] = max(fromLeft, fromRight);
         } else {
-            int tookLeft = solve(left + 1, right, false, piles) - piles[left];
-            int tookRight = solve(left, right - 1, false, piles) - piles[right];
-            return dp[left][right][turn] = max(tookLeft, tookRight);
+            int tookLeft = solve(left + 1, right, true, piles) - piles[left];
+            int tookRight = solve(left, right - 1, true, piles) - piles[right];
+            return dp[left][right][turn] = min(tookLeft, tookRight);
         }
     }
     bool stoneGame(vector<int>& piles) {
         memset(dp, -1, sizeof(dp));
-        return solve(0, 0, true, piles) > 0;
+        int n = piles.size();
+        return solve(0, n - 1, true, piles) > 0;
     }
 };
