@@ -852,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/miruddin11/Algorithms/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/miruddin11/Algorithms/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/miruddin11/Algorithms/tree/main/0796-rotate-string/) | Easy |
 | [0812-rotate-string](https://github.com/miruddin11/Algorithms/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/miruddin11/Algorithms/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/miruddin11/Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1888,6 +1889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/miruddin11/Algorithms/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/miruddin11/Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/miruddin11/Algorithms/tree/main/0796-rotate-string/) | Easy |
 | [0812-rotate-string](https://github.com/miruddin11/Algorithms/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/miruddin11/Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
