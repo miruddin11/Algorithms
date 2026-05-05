@@ -1077,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/miruddin11/Algorithms/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/miruddin11/Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/miruddin11/Algorithms/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/miruddin11/Algorithms/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/miruddin11/Algorithms/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/miruddin11/Algorithms/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/miruddin11/Algorithms/tree/master/0088-merge-sorted-array) |
@@ -1316,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/miruddin11/Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/miruddin11/Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/miruddin11/Algorithms/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/miruddin11/Algorithms/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/miruddin11/Algorithms/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/miruddin11/Algorithms/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/miruddin11/Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
