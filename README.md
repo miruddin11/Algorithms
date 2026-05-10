@@ -968,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/miruddin11/Algorithms/tree/master/1036-rotting-oranges) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/miruddin11/Algorithms/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/miruddin11/Algorithms/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/miruddin11/Algorithms/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/miruddin11/Algorithms/tree/master/1396-count-servers-that-communicate) |
@@ -1967,6 +1968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1129-shortest-path-with-alternating-colors](https://github.com/miruddin11/Algorithms/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/miruddin11/Algorithms/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/miruddin11/Algorithms/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 ## Union-Find
