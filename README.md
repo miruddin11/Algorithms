@@ -1971,6 +1971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/miruddin11/Algorithms/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/miruddin11/Algorithms/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/miruddin11/Algorithms/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
+| [1615-maximal-network-rank](https://github.com/miruddin11/Algorithms/tree/main/1615-maximal-network-rank/) | Medium |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/miruddin11/Algorithms/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
