@@ -6,26 +6,16 @@ public:
             return d1 > d2;
         };
         sort(tasks.begin(), tasks.end(), comp);
-        auto isPossible = [&](int mid) {
-            for(auto &task : tasks) {
-                if(mid >= task[1]) {
-                    mid -= task[0];
-                } else {
-                    return false;
-                }
+        int totalInitialEnergy = 0, currEnergy = 0;
+        for(auto &task : tasks) {
+            int minimum = task[1], actual = task[0];
+            if(currEnergy < minimum) {
+                int deficit = minimum - currEnergy;
+                totalInitialEnergy += deficit;
+                currEnergy += deficit;
             }
-            return true;
-        };
-        int low = 0, high = 1e9, ans = 1e9;
-        while(low <= high) {
-            int mid = low + (high - low) / 2;
-            if(isPossible(mid)) {
-                ans = mid;
-                high = mid - 1;
-            } else {
-                low = mid + 1;
-            }
+            currEnergy -= actual;
         }
-        return ans;
+        return totalInitialEnergy;
     }
 };
