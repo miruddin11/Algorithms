@@ -6,15 +6,19 @@ public:
         if(n != maxi + 1) {
             return false;
         }
-        vector<int> mp(maxi + 1, 0);
-        for(auto &x: nums) {
-            mp[x] += 1;
+        unordered_map<int, int> mp;
+        for(int i = 1; i <= maxi; i++) {
+            mp[i] += 1;
         }
-        for(int i = 1; i < maxi; i++) {
-            if(mp[i] != 1) {
-                return false;
+        mp[maxi] += 1;
+        for(auto &x : nums) {
+            if(mp.find(x) != mp.end()) {
+                mp[x] -= 1;
+                if(mp[x] == 0) {
+                    mp.erase(x);
+                }
             }
         }
-        return mp[maxi] == 2;
+        return mp.size() == 0;
     }
 };
