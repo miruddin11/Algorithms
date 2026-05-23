@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/miruddin11/Algorithms/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1741-sort-array-by-increasing-frequency](https://github.com/miruddin11/Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/miruddin11/Algorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/miruddin11/Algorithms/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1755-defuse-the-bomb](https://github.com/miruddin11/Algorithms/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/miruddin11/Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/miruddin11/Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
