@@ -1,33 +1,30 @@
 class Solution {
 public:
-    int n;
-    vector<int> dp;
-    int solve(int i, int d, vector<int> &arr) {
-        if(dp[i] != -1) {
-            return dp[i];
-        }
-        int ans = 1;
-        for(int j = i - 1; j >= max(0, i - d); j--) {
-            if(arr[j] >= arr[i]) {
-                break;
-            }
-            ans = max(ans, 1 + solve(j, d, arr));
-        }
-
-        for(int j = i + 1; j <= min(n - 1, i + d); j++) {
-            if(arr[j] >= arr[i]) {
-                break;
-            }
-            ans = max(ans, 1 + solve(j, d, arr));
-        }
-        return dp[i] = ans;
-    }
     int maxJumps(vector<int>& arr, int d) {
-        n = arr.size();
-        dp.resize(n + 1, -1);
-        int jumps = 0;
+        int n = arr.size();
+        vector<int> dp(n + 1, 1);
+        vector<pair<int,int>> vec;
         for(int i = 0; i < n; i++) {
-            jumps = max(jumps, solve(i, d, arr));
+            vec.push_back({arr[i], i});
+        }
+        sort(begin(vec), end(vec));
+        int jumps = 1;
+        for(int i = 0; i < n; i++) {
+            int idx = vec[i].second;
+            for(int j = idx - 1; j >= max(0, idx - d); j--) {
+                if(arr[j] >= arr[idx]) {
+                    break;
+                }
+                dp[idx] = max(dp[idx], 1 + dp[j]);
+            }
+
+            for(int j = idx + 1; j <= min(n - 1, idx + d); j++) {
+                if(arr[j] >= arr[idx]) {
+                    break;
+                }
+                dp[idx] = max(dp[idx], 1 + dp[j]);
+            }
+            jumps = max(jumps, dp[idx]);
         }
         return jumps;
     }
