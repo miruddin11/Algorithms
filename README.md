@@ -634,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/miruddin11/Algorithms/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/miruddin11/Algorithms/tree/master/3001-apply-operations-to-maximize-score) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/miruddin11/Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/miruddin11/Algorithms/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3113-beautiful-towers-ii](https://github.com/miruddin11/Algorithms/tree/master/3113-beautiful-towers-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/miruddin11/Algorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/miruddin11/Algorithms/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/miruddin11/Algorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/miruddin11/Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/miruddin11/Algorithms/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/miruddin11/Algorithms/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/miruddin11/Algorithms/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/miruddin11/Algorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1959,6 +1961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/miruddin11/Algorithms/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/miruddin11/Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/miruddin11/Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/miruddin11/Algorithms/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/miruddin11/Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/miruddin11/Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Ordered Set
