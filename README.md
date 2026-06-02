@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/miruddin11/Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/miruddin11/Algorithms/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/miruddin11/Algorithms/tree/master/2716-prime-subtraction-operation) |
+| [2745-construct-the-longest-new-string](https://github.com/miruddin11/Algorithms/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [3001-apply-operations-to-maximize-score](https://github.com/miruddin11/Algorithms/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/miruddin11/Algorithms/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/miruddin11/Algorithms/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -1207,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/miruddin11/Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/miruddin11/Algorithms/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/miruddin11/Algorithms/tree/master/2716-prime-subtraction-operation) |
+| [2745-construct-the-longest-new-string](https://github.com/miruddin11/Algorithms/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/miruddin11/Algorithms/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/miruddin11/Algorithms/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/miruddin11/Algorithms/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1309,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/miruddin11/Algorithms/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/miruddin11/Algorithms/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
+| [2745-construct-the-longest-new-string](https://github.com/miruddin11/Algorithms/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2755-extra-characters-in-a-string](https://github.com/miruddin11/Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/miruddin11/Algorithms/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/miruddin11/Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -1926,6 +1929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/miruddin11/Algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/miruddin11/Algorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2745-construct-the-longest-new-string](https://github.com/miruddin11/Algorithms/tree/main/2745-construct-the-longest-new-string/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
