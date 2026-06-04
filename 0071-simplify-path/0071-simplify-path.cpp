@@ -3,21 +3,20 @@ public:
     string simplifyPath(string path) {
         stringstream ss(path);
         string token = "";
-        stack<string> st;
+        vector<string> st;
         while(getline(ss, token, '/')) {
             if(token == "." || token == ""){
                 continue;
             }
             if(token != "..") {
-                st.push(token);
+                st.push_back(token);
             } else if(!st.empty()) {
-                st.pop();
+                st.pop_back();
             }
         }
         string ans = "";
-        while(!st.empty()) {
-            ans = "/" + st.top() + ans;
-            st.pop();
+        for(auto &dir : st) {
+            ans += "/" + dir;
         }
         return ans.empty() ? "/" : ans;
     }
