@@ -864,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/miruddin11/Algorithms/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/miruddin11/Algorithms/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/miruddin11/Algorithms/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/miruddin11/Algorithms/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/miruddin11/Algorithms/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/miruddin11/Algorithms/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/miruddin11/Algorithms/tree/master/0087-scramble-string) |
@@ -1433,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/miruddin11/Algorithms/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/miruddin11/Algorithms/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/miruddin11/Algorithms/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/miruddin11/Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/miruddin11/Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
