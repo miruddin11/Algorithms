@@ -1232,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/miruddin11/Algorithms/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/miruddin11/Algorithms/tree/master/3637-count-number-of-balanced-permutations) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/miruddin11/Algorithms/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/miruddin11/Algorithms/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/miruddin11/Algorithms/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/miruddin11/Algorithms/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/miruddin11/Algorithms/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -1332,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/miruddin11/Algorithms/tree/master/3637-count-number-of-balanced-permutations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/miruddin11/Algorithms/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/miruddin11/Algorithms/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/miruddin11/Algorithms/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
