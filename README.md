@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/miruddin11/Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/miruddin11/Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3647-zero-array-transformation-iii](https://github.com/miruddin11/Algorithms/tree/master/3647-zero-array-transformation-iii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/miruddin11/Algorithms/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/miruddin11/Algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Graph
 | Problem Name | Difficulty |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/miruddin11/Algorithms/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/miruddin11/Algorithms/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/miruddin11/Algorithms/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3689-maximum-total-subarray-value-i](https://github.com/miruddin11/Algorithms/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/miruddin11/Algorithms/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/miruddin11/Algorithms/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/miruddin11/Algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
