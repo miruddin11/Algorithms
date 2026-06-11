@@ -904,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/miruddin11/Algorithms/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/miruddin11/Algorithms/tree/master/0768-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/miruddin11/Algorithms/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0796-rotate-string](https://github.com/miruddin11/Algorithms/tree/main/0796-rotate-string/) | Easy |
 | [0812-rotate-string](https://github.com/miruddin11/Algorithms/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/miruddin11/Algorithms/tree/master/0868-push-dominoes) |
@@ -1158,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/miruddin11/Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/miruddin11/Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/miruddin11/Algorithms/tree/master/0768-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/miruddin11/Algorithms/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0868-push-dominoes](https://github.com/miruddin11/Algorithms/tree/master/0868-push-dominoes) |
 | [0985-bag-of-tokens](https://github.com/miruddin11/Algorithms/tree/master/0985-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/miruddin11/Algorithms/tree/master/1129-longest-string-chain) |
