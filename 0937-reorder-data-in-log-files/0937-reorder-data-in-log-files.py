@@ -1,18 +1,17 @@
 class Solution:
     def reorderLogFiles(self, logs: List[str]) -> List[str]:
-        def hasNum(s):
-            return any(ch.isdigit() for ch in s)
+        def custom_sort(log):
+            identifier, rest = log.split(' ', 1)
 
-        letter_log , digit_log = [] , []
-        ans = []
-        for i, log in enumerate(logs):
-            values = log.split(' ')
-            if hasNum(values[1:]):
-                digit_log.append(log)
+            # digit log
+            if rest[0].isdigit():
+                return (1,)
+            #letter log
             else:
-                letter_log.append([' '.join(values[1:]), values[0], i])
-        
-        for letter in sorted(letter_log):
-            ans.append(logs[letter[2]])
-        
-        return ans + digit_log
+                return (0, rest, identifier)
+
+        return sorted(logs, key = custom_sort)
+            
+
+
+            
