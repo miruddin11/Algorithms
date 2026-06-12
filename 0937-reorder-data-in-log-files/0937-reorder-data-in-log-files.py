@@ -2,7 +2,6 @@ class Solution:
     def reorderLogFiles(self, logs: List[str]) -> List[str]:
         def custom_sort(log):
             identifier, rest = log.split(' ', 1)
-
             # digit log
             if rest[0].isdigit():
                 return (1,)
