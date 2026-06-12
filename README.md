@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/miruddin11/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/miruddin11/Algorithms/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/miruddin11/Algorithms/tree/master/0797-rabbits-in-forest) |
+| [0811-subdomain-visit-count](https://github.com/miruddin11/Algorithms/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0859-design-circular-deque](https://github.com/miruddin11/Algorithms/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/miruddin11/Algorithms/tree/main/0877-stone-game/) | Medium |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/miruddin11/Algorithms/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/miruddin11/Algorithms/tree/master/0797-rabbits-in-forest) |
+| [0811-subdomain-visit-count](https://github.com/miruddin11/Algorithms/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/miruddin11/Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/miruddin11/Algorithms/tree/master/0768-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/miruddin11/Algorithms/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0796-rotate-string](https://github.com/miruddin11/Algorithms/tree/main/0796-rotate-string/) | Easy |
+| [0811-subdomain-visit-count](https://github.com/miruddin11/Algorithms/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0812-rotate-string](https://github.com/miruddin11/Algorithms/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/miruddin11/Algorithms/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/miruddin11/Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1745,6 +1748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/miruddin11/Algorithms/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/miruddin11/Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/miruddin11/Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0811-subdomain-visit-count](https://github.com/miruddin11/Algorithms/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0920-uncommon-words-from-two-sentences](https://github.com/miruddin11/Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/miruddin11/Algorithms/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/miruddin11/Algorithms/tree/master/1160-letter-tile-possibilities) |
