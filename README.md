@@ -1182,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/miruddin11/Algorithms/tree/main/1861-rotating-the-box/) | Medium |
 | [1923-sentence-similarity-iii](https://github.com/miruddin11/Algorithms/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/miruddin11/Algorithms/tree/master/1972-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/miruddin11/Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/miruddin11/Algorithms/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2232-adding-spaces-to-a-string](https://github.com/miruddin11/Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -1431,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/miruddin11/Algorithms/tree/master/0859-design-circular-deque) |
 | [1072-next-greater-node-in-linked-list](https://github.com/miruddin11/Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/1484-linked-list-in-binary-tree) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/miruddin11/Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/miruddin11/Algorithms/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/miruddin11/Algorithms/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/miruddin11/Algorithms/tree/master/2411-spiral-matrix-iv) |
@@ -1492,6 +1494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/miruddin11/Algorithms/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/miruddin11/Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/miruddin11/Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/miruddin11/Algorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/miruddin11/Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/2800-minimum-string-length-after-removing-substrings) |
