@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/miruddin11/Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/miruddin11/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [0792-number-of-matching-subsequences](https://github.com/miruddin11/Algorithms/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/miruddin11/Algorithms/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0948-sort-an-array](https://github.com/miruddin11/Algorithms/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/miruddin11/Algorithms/tree/master/0985-bag-of-tokens) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/miruddin11/Algorithms/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/miruddin11/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/miruddin11/Algorithms/tree/master/0787-sliding-puzzle) |
+| [0792-number-of-matching-subsequences](https://github.com/miruddin11/Algorithms/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0797-rabbits-in-forest](https://github.com/miruddin11/Algorithms/tree/master/0797-rabbits-in-forest) |
 | [0811-subdomain-visit-count](https://github.com/miruddin11/Algorithms/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0859-design-circular-deque](https://github.com/miruddin11/Algorithms/tree/master/0859-design-circular-deque) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/miruddin11/Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/miruddin11/Algorithms/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/miruddin11/Algorithms/tree/master/0731-my-calendar-ii) |
+| [0792-number-of-matching-subsequences](https://github.com/miruddin11/Algorithms/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0882-peak-index-in-a-mountain-array](https://github.com/miruddin11/Algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/miruddin11/Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0923-super-egg-drop](https://github.com/miruddin11/Algorithms/tree/master/0923-super-egg-drop) |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/miruddin11/Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/miruddin11/Algorithms/tree/master/0768-partition-labels) |
+| [0792-number-of-matching-subsequences](https://github.com/miruddin11/Algorithms/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0797-rabbits-in-forest](https://github.com/miruddin11/Algorithms/tree/master/0797-rabbits-in-forest) |
 | [0811-subdomain-visit-count](https://github.com/miruddin11/Algorithms/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0870-magic-squares-in-grid](https://github.com/miruddin11/Algorithms/tree/master/0870-magic-squares-in-grid) |
@@ -913,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/miruddin11/Algorithms/tree/master/0768-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/miruddin11/Algorithms/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/miruddin11/Algorithms/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0796-rotate-string](https://github.com/miruddin11/Algorithms/tree/main/0796-rotate-string/) | Easy |
 | [0811-subdomain-visit-count](https://github.com/miruddin11/Algorithms/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0812-rotate-string](https://github.com/miruddin11/Algorithms/tree/master/0812-rotate-string) |
@@ -1306,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/miruddin11/Algorithms/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/miruddin11/Algorithms/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0788-rotated-digits](https://github.com/miruddin11/Algorithms/tree/main/0788-rotated-digits/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/miruddin11/Algorithms/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0806-domino-and-tromino-tiling](https://github.com/miruddin11/Algorithms/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/miruddin11/Algorithms/tree/master/0868-push-dominoes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/miruddin11/Algorithms/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -2032,6 +2038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/miruddin11/Algorithms/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/miruddin11/Algorithms/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/miruddin11/Algorithms/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0792-number-of-matching-subsequences](https://github.com/miruddin11/Algorithms/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/miruddin11/Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/miruddin11/Algorithms/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/miruddin11/Algorithms/tree/master/2755-extra-characters-in-a-string) |
