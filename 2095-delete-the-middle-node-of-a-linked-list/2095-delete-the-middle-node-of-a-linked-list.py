@@ -8,14 +8,13 @@ class Solution:
         if head.next == None:
             return None
         
-        slow = fast = head
-        prev = None
+        slow = head
+        fast = head.next.next
 
         while fast and fast.next:
-            prev = slow
             slow = slow.next
             fast = fast.next.next
         
-        prev.next = slow.next
+        slow.next = slow.next.next
 
         return head
