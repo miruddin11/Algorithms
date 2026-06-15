@@ -1182,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/miruddin11/Algorithms/tree/main/1861-rotating-the-box/) | Medium |
 | [1923-sentence-similarity-iii](https://github.com/miruddin11/Algorithms/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/miruddin11/Algorithms/tree/master/1972-rotating-the-box) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/miruddin11/Algorithms/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/miruddin11/Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/miruddin11/Algorithms/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2232-adding-spaces-to-a-string](https://github.com/miruddin11/Algorithms/tree/master/2232-adding-spaces-to-a-string) |
@@ -1432,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/miruddin11/Algorithms/tree/master/0859-design-circular-deque) |
 | [1072-next-greater-node-in-linked-list](https://github.com/miruddin11/Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/1484-linked-list-in-binary-tree) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/miruddin11/Algorithms/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/miruddin11/Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/miruddin11/Algorithms/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/miruddin11/Algorithms/tree/master/2299-merge-nodes-in-between-zeros) |
