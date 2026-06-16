@@ -6,8 +6,6 @@ public:
             if(ch == '*') {
                 if(!ans.empty()) {
                     ans.pop_back();
-                } else {
-                    continue;
                 }
             } else if(ch == '#') {
                 ans = ans + ans;
