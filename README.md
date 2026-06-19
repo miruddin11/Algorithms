@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/miruddin11/Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/miruddin11/Algorithms/tree/master/1720-crawler-log-folder) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/miruddin11/Algorithms/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/miruddin11/Algorithms/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/miruddin11/Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/miruddin11/Algorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/miruddin11/Algorithms/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -1619,6 +1620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/miruddin11/Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/miruddin11/Algorithms/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1694-make-sum-divisible-by-p](https://github.com/miruddin11/Algorithms/tree/master/1694-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/miruddin11/Algorithms/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/miruddin11/Algorithms/tree/main/1871-jump-game-vii/) | Medium |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/miruddin11/Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/miruddin11/Algorithms/tree/master/1940-maximum-xor-for-each-query) |
