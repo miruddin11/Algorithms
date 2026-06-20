@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/miruddin11/Algorithms/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/miruddin11/Algorithms/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1741-sort-array-by-increasing-frequency](https://github.com/miruddin11/Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1840-maximum-building-height](https://github.com/miruddin11/Algorithms/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/miruddin11/Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/miruddin11/Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/miruddin11/Algorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/miruddin11/Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/miruddin11/Algorithms/tree/master/1803-average-waiting-time) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/miruddin11/Algorithms/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1840-maximum-building-height](https://github.com/miruddin11/Algorithms/tree/master/1840-maximum-building-height) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/miruddin11/Algorithms/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/miruddin11/Algorithms/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/miruddin11/Algorithms/tree/main/1861-rotating-the-box/) | Medium |
@@ -1243,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/miruddin11/Algorithms/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/miruddin11/Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/miruddin11/Algorithms/tree/master/1642-water-bottles) |
+| [1840-maximum-building-height](https://github.com/miruddin11/Algorithms/tree/master/1840-maximum-building-height) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/miruddin11/Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/miruddin11/Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/miruddin11/Algorithms/tree/master/2155-find-missing-observations) |
