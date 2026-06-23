@@ -1,26 +1,18 @@
 class Solution {
 public:
-    bool isGood(int num) {
-        bool possible = false;
-        while(num > 0) {
-            int d = (num % 10);
-            if(d == 3 || d == 4 || d == 7) {
-                return false;
-            }
-            if(d == 2 || d == 5 || d == 6 || d == 9) {
-                possible = true;
-            }
-            num /= 10;
+    int func(string &s, int idx, bool tight, bool good) {
+        if (idx == s.size()) return good;
+        int lb = 0;
+        int ub = tight ? s[idx] - '0' : 9;
+        int ans = 0;
+        for (int dig = lb; dig <= ub; dig++) {
+            if (dig == 3 || dig == 4 || dig == 7) continue;
+            ans += func(s, idx + 1, (tight && dig == ub), (good || dig == 2 || dig == 5 || dig == 6 || dig == 9));
         }
-        return possible;
+        return ans;
     }
     int rotatedDigits(int n) {
-        int count = 0;
-        for(int i = 1; i <= n; i++) {
-            if(isGood(i)) {
-                count += 1;
-            }
-        }
-        return count;
+        string s = to_string(n);
+        return func(s, 0, 1, 0);
     }
 };
