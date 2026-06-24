@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/miruddin11/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/miruddin11/Algorithms/tree/master/2379-maximum-total-importance-of-roads) |
+| [2384-largest-palindromic-number](https://github.com/miruddin11/Algorithms/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/miruddin11/Algorithms/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/miruddin11/Algorithms/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/miruddin11/Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/miruddin11/Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/miruddin11/Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/miruddin11/Algorithms/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2384-largest-palindromic-number](https://github.com/miruddin11/Algorithms/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2448-count-number-of-bad-pairs](https://github.com/miruddin11/Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/miruddin11/Algorithms/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/miruddin11/Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -976,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/miruddin11/Algorithms/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/miruddin11/Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/miruddin11/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
+| [2384-largest-palindromic-number](https://github.com/miruddin11/Algorithms/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/miruddin11/Algorithms/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/miruddin11/Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/miruddin11/Algorithms/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -1806,6 +1809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/miruddin11/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/miruddin11/Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/miruddin11/Algorithms/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2384-largest-palindromic-number](https://github.com/miruddin11/Algorithms/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2448-count-number-of-bad-pairs](https://github.com/miruddin11/Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/miruddin11/Algorithms/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/miruddin11/Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
