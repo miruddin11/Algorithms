@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/miruddin11/Algorithms/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/miruddin11/Algorithms/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/miruddin11/Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/miruddin11/Algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/miruddin11/Algorithms/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/miruddin11/Algorithms/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/miruddin11/Algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/miruddin11/Algorithms/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/miruddin11/Algorithms/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/miruddin11/Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/miruddin11/Algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/miruddin11/Algorithms/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/miruddin11/Algorithms/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/miruddin11/Algorithms/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -1656,6 +1658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/miruddin11/Algorithms/tree/master/3647-zero-array-transformation-iii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/miruddin11/Algorithms/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/miruddin11/Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/miruddin11/Algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1858,6 +1861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/miruddin11/Algorithms/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2280-count-good-triplets-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/miruddin11/Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/miruddin11/Algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1865,6 +1869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/miruddin11/Algorithms/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2280-count-good-triplets-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/miruddin11/Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/miruddin11/Algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -2033,6 +2038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/miruddin11/Algorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/miruddin11/Algorithms/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/miruddin11/Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/miruddin11/Algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Memoization
 |  |
 | ------- |
