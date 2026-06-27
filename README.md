@@ -660,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/miruddin11/Algorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/miruddin11/Algorithms/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/miruddin11/Algorithms/tree/master/3001-apply-operations-to-maximize-score) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/miruddin11/Algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/miruddin11/Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/miruddin11/Algorithms/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3113-beautiful-towers-ii](https://github.com/miruddin11/Algorithms/tree/master/3113-beautiful-towers-ii) |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/miruddin11/Algorithms/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/miruddin11/Algorithms/tree/master/2915-count-of-interesting-subarrays) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/miruddin11/Algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/miruddin11/Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/miruddin11/Algorithms/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/miruddin11/Algorithms/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -2102,6 +2104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/miruddin11/Algorithms/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/miruddin11/Algorithms/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/miruddin11/Algorithms/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/miruddin11/Algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/miruddin11/Algorithms/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/miruddin11/Algorithms/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/miruddin11/Algorithms/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
