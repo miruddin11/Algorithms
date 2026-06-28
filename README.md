@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/miruddin11/Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/miruddin11/Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/miruddin11/Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/miruddin11/Algorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/miruddin11/Algorithms/tree/master/2089-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/miruddin11/Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/miruddin11/Algorithms/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1741-sort-array-by-increasing-frequency](https://github.com/miruddin11/Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1840-maximum-building-height](https://github.com/miruddin11/Algorithms/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/miruddin11/Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/miruddin11/Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/miruddin11/Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/miruddin11/Algorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/miruddin11/Algorithms/tree/master/1803-average-waiting-time) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/miruddin11/Algorithms/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1840-maximum-building-height](https://github.com/miruddin11/Algorithms/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/miruddin11/Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/miruddin11/Algorithms/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/miruddin11/Algorithms/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/miruddin11/Algorithms/tree/main/1861-rotating-the-box/) | Medium |
