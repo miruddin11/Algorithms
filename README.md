@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/miruddin11/Algorithms/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/miruddin11/Algorithms/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/miruddin11/Algorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/miruddin11/Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/miruddin11/Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/miruddin11/Algorithms/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/miruddin11/Algorithms/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/miruddin11/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/miruddin11/Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/miruddin11/Algorithms/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/miruddin11/Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/miruddin11/Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/miruddin11/Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/miruddin11/Algorithms/tree/master/3321-type-of-triangle) |
@@ -1092,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/miruddin11/Algorithms/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/miruddin11/Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/miruddin11/Algorithms/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/miruddin11/Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/miruddin11/Algorithms/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/miruddin11/Algorithms/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/miruddin11/Algorithms/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1595,6 +1598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/miruddin11/Algorithms/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/miruddin11/Algorithms/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3227-find-missing-and-repeated-values](https://github.com/miruddin11/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/miruddin11/Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/miruddin11/Algorithms/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/miruddin11/Algorithms/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/miruddin11/Algorithms/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -1912,6 +1916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/miruddin11/Algorithms/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/miruddin11/Algorithms/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/miruddin11/Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/miruddin11/Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/miruddin11/Algorithms/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/miruddin11/Algorithms/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/miruddin11/Algorithms/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -2145,6 +2150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/miruddin11/Algorithms/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/miruddin11/Algorithms/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1615-maximal-network-rank](https://github.com/miruddin11/Algorithms/tree/main/1615-maximal-network-rank/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/miruddin11/Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/miruddin11/Algorithms/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 ## Union-Find
 |  |
