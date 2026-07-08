@@ -1038,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/miruddin11/Algorithms/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/miruddin11/Algorithms/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/miruddin11/Algorithms/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/miruddin11/Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/miruddin11/Algorithms/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Breadth-First Search
 |  |
@@ -1313,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/miruddin11/Algorithms/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/miruddin11/Algorithms/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/miruddin11/Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/miruddin11/Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/miruddin11/Algorithms/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/miruddin11/Algorithms/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Dynamic Programming
@@ -1688,6 +1690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/miruddin11/Algorithms/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/miruddin11/Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/miruddin11/Algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/miruddin11/Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Tree
 |  |
 | ------- |
