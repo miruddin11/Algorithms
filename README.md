@@ -2146,6 +2146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/miruddin11/Algorithms/tree/master/1291-sequential-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/miruddin11/Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/miruddin11/Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/miruddin11/Algorithms/tree/master/2202-sum-of-k-mirror-numbers) |
