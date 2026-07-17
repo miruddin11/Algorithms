@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/miruddin11/Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/miruddin11/Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/miruddin11/Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/miruddin11/Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/miruddin11/Algorithms/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/miruddin11/Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/miruddin11/Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-maximum-balanced-subsequence-sum](https://github.com/miruddin11/Algorithms/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/miruddin11/Algorithms/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/miruddin11/Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/miruddin11/Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/miruddin11/Algorithms/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3427-special-array-ii](https://github.com/miruddin11/Algorithms/tree/master/3427-special-array-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/miruddin11/Algorithms/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/miruddin11/Algorithms/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/miruddin11/Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/miruddin11/Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/miruddin11/Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/miruddin11/Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/miruddin11/Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/miruddin11/Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1315,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/miruddin11/Algorithms/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/miruddin11/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/miruddin11/Algorithms/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/miruddin11/Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/miruddin11/Algorithms/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/miruddin11/Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/miruddin11/Algorithms/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -1706,6 +1710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/miruddin11/Algorithms/tree/main/2615-sum-of-distances/) | Medium |
 | [2915-count-of-interesting-subarrays](https://github.com/miruddin11/Algorithms/tree/master/2915-count-of-interesting-subarrays) |
 | [3225-maximum-score-from-grid-operations](https://github.com/miruddin11/Algorithms/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/miruddin11/Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3427-special-array-ii](https://github.com/miruddin11/Algorithms/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/miruddin11/Algorithms/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/miruddin11/Algorithms/tree/master/3639-zero-array-transformation-i) |
@@ -1879,6 +1884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/miruddin11/Algorithms/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/miruddin11/Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/miruddin11/Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/miruddin11/Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/miruddin11/Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/miruddin11/Algorithms/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/miruddin11/Algorithms/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1980,6 +1986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/miruddin11/Algorithms/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/miruddin11/Algorithms/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/miruddin11/Algorithms/tree/master/3001-apply-operations-to-maximize-score) |
+| [3312-sorted-gcd-pair-queries](https://github.com/miruddin11/Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/miruddin11/Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/miruddin11/Algorithms/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/miruddin11/Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -2183,6 +2190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/miruddin11/Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/miruddin11/Algorithms/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/miruddin11/Algorithms/tree/master/3201-distribute-candies-among-children-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/miruddin11/Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3548-find-the-count-of-good-integers](https://github.com/miruddin11/Algorithms/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/miruddin11/Algorithms/tree/master/3637-count-number-of-balanced-permutations) |
 ## Graph Theory
