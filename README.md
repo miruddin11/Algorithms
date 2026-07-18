@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/miruddin11/Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/miruddin11/Algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1972-rotating-the-box](https://github.com/miruddin11/Algorithms/tree/master/1972-rotating-the-box) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/miruddin11/Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/miruddin11/Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/miruddin11/Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/miruddin11/Algorithms/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -1301,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/miruddin11/Algorithms/tree/master/1642-water-bottles) |
 | [1840-maximum-building-height](https://github.com/miruddin11/Algorithms/tree/master/1840-maximum-building-height) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/miruddin11/Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/miruddin11/Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/miruddin11/Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/miruddin11/Algorithms/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/miruddin11/Algorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1981,6 +1983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/miruddin11/Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/miruddin11/Algorithms/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/miruddin11/Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/miruddin11/Algorithms/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
