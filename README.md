@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/miruddin11/Algorithms/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/miruddin11/Algorithms/tree/master/1256-rank-transform-of-an-array) |
+| [1260-shift-2d-grid](https://github.com/miruddin11/Algorithms/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/miruddin11/Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/miruddin11/Algorithms/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/miruddin11/Algorithms/tree/master/1325-path-with-maximum-probability) |
@@ -1472,6 +1473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/miruddin11/Algorithms/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/miruddin11/Algorithms/tree/master/0921-spiral-matrix-iii) |
+| [1260-shift-2d-grid](https://github.com/miruddin11/Algorithms/tree/master/1260-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/miruddin11/Algorithms/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/miruddin11/Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/miruddin11/Algorithms/tree/master/1803-average-waiting-time) |
@@ -1617,6 +1619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/miruddin11/Algorithms/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/miruddin11/Algorithms/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/miruddin11/Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1260-shift-2d-grid](https://github.com/miruddin11/Algorithms/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/miruddin11/Algorithms/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/miruddin11/Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/miruddin11/Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
