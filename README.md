@@ -1053,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/miruddin11/Algorithms/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/miruddin11/Algorithms/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/miruddin11/Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/miruddin11/Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/miruddin11/Algorithms/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/miruddin11/Algorithms/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/miruddin11/Algorithms/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -2187,6 +2188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-lattice-points-inside-a-circle](https://github.com/miruddin11/Algorithms/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/miruddin11/Algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/miruddin11/Algorithms/tree/master/3201-distribute-candies-among-children-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/miruddin11/Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/miruddin11/Algorithms/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/miruddin11/Algorithms/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/miruddin11/Algorithms/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
