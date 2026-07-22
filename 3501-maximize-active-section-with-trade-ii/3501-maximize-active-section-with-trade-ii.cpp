@@ -3,7 +3,6 @@ void buildSegmentTree(int i, int l, int r, int segmentTree[], int arr[]) {
         segmentTree[i] = arr[l];
         return;
     }
-
     int mid = l + (r - l) / 2;
     buildSegmentTree(2 * i + 1, l, mid, segmentTree, arr);
     buildSegmentTree(2 * i + 2, mid + 1, r, segmentTree, arr);
@@ -33,8 +32,7 @@ public:
     vector<int> maxActiveSectionsAfterTrade(string s, vector<vector<int>>& queries) {
         int n = s.length();
         int activeCount = count(begin(s), end(s), '1');
-        vector<int> blockStart;
-        vector<int> blockEnd;
+        vector<int> blockStart, blockEnd;
         int i = 0;
         while(i < n) {
             if(s[i] == '0') {
