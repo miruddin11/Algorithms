@@ -711,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/miruddin11/Algorithms/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/miruddin11/Algorithms/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/miruddin11/Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/miruddin11/Algorithms/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/miruddin11/Algorithms/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/miruddin11/Algorithms/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/miruddin11/Algorithms/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/miruddin11/Algorithms/tree/main/3419-minimize-the-maximum-edge-weight-of-graph/) | Medium |
 | [3427-special-array-ii](https://github.com/miruddin11/Algorithms/tree/master/3427-special-array-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/miruddin11/Algorithms/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/miruddin11/Algorithms/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/miruddin11/Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/miruddin11/Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/miruddin11/Algorithms/tree/master/3620-network-recovery-pathways) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/miruddin11/Algorithms/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/miruddin11/Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/miruddin11/Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/miruddin11/Algorithms/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/miruddin11/Algorithms/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/miruddin11/Algorithms/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/miruddin11/Algorithms/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -2120,6 +2123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/miruddin11/Algorithms/tree/main/3161-block-placement-queries/) | Hard |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/miruddin11/Algorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/miruddin11/Algorithms/tree/master/3184-maximum-balanced-subsequence-sum) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/miruddin11/Algorithms/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/miruddin11/Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/miruddin11/Algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Memoization
