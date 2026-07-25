@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/miruddin11/Algorithms/tree/master/3430-count-days-without-meetings) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/miruddin11/Algorithms/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/miruddin11/Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/miruddin11/Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/miruddin11/Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/miruddin11/Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3647-zero-array-transformation-iii](https://github.com/miruddin11/Algorithms/tree/master/3647-zero-array-transformation-iii) |
@@ -1339,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/miruddin11/Algorithms/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/miruddin11/Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/miruddin11/Algorithms/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3536-maximum-product-of-two-digits](https://github.com/miruddin11/Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/miruddin11/Algorithms/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/miruddin11/Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/miruddin11/Algorithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
