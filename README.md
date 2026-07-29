@@ -922,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/miruddin11/Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/miruddin11/Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/miruddin11/Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/miruddin11/Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/miruddin11/Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/miruddin11/Algorithms/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/miruddin11/Algorithms/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -1065,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/miruddin11/Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/miruddin11/Algorithms/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/miruddin11/Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/miruddin11/Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/miruddin11/Algorithms/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/miruddin11/Algorithms/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/miruddin11/Algorithms/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1345,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/miruddin11/Algorithms/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/miruddin11/Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/miruddin11/Algorithms/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/miruddin11/Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/miruddin11/Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/miruddin11/Algorithms/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/miruddin11/Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1913,6 +1916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/miruddin11/Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/miruddin11/Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/miruddin11/Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/miruddin11/Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/miruddin11/Algorithms/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/miruddin11/Algorithms/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/miruddin11/Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -2225,6 +2229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/miruddin11/Algorithms/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/miruddin11/Algorithms/tree/master/3201-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/miruddin11/Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/miruddin11/Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/miruddin11/Algorithms/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/miruddin11/Algorithms/tree/master/3637-count-number-of-balanced-permutations) |
 ## Graph Theory
