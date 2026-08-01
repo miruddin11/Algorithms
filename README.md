@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/miruddin11/Algorithms/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/miruddin11/Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/miruddin11/Algorithms/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/miruddin11/Algorithms/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/miruddin11/Algorithms/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/miruddin11/Algorithms/tree/master/0525-contiguous-array) |
@@ -1306,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/miruddin11/Algorithms/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/miruddin11/Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/miruddin11/Algorithms/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/miruddin11/Algorithms/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/miruddin11/Algorithms/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0539-minimum-time-difference](https://github.com/miruddin11/Algorithms/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/miruddin11/Algorithms/tree/master/0564-find-the-closest-palindrome) |
@@ -1402,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/miruddin11/Algorithms/tree/main/0396-rotate-function/) | Medium |
 | [0403-frog-jump](https://github.com/miruddin11/Algorithms/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/miruddin11/Algorithms/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/miruddin11/Algorithms/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/miruddin11/Algorithms/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/miruddin11/Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/miruddin11/Algorithms/tree/master/0518-coin-change-ii) |
@@ -1569,6 +1572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/miruddin11/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/miruddin11/Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/miruddin11/Algorithms/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/miruddin11/Algorithms/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/miruddin11/Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/miruddin11/Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/miruddin11/Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -2124,6 +2128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/miruddin11/Algorithms/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/miruddin11/Algorithms/tree/main/0877-stone-game/) | Medium |
 | [1240-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1240-stone-game-ii) |
 ## Database
