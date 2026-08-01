@@ -2,10 +2,10 @@ class Solution {
 public:
     vector<vector<int>> dp;
     int score(const vector<int>& nums, int l, int r) {
-        if (dp[l][r] != -1) {
+        if(dp[l][r] != -1) {
             return dp[l][r];
         }
-        if (l == r) {
+        if(l == r) {
             return nums[l];
         }
         int left = nums[l] - score(nums, l + 1, r);
