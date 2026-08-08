@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-maximum-points-after-enemy-battles](https://github.com/miruddin11/Algorithms/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/miruddin11/Algorithms/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/miruddin11/Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/miruddin11/Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/miruddin11/Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/miruddin11/Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/miruddin11/Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -1070,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/miruddin11/Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/miruddin11/Algorithms/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/miruddin11/Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/miruddin11/Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/miruddin11/Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/miruddin11/Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/miruddin11/Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -1297,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/miruddin11/Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/miruddin11/Algorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/miruddin11/Algorithms/tree/master/3195-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/miruddin11/Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/miruddin11/Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/miruddin11/Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/miruddin11/Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -1480,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/miruddin11/Algorithms/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/miruddin11/Algorithms/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3225-maximum-score-from-grid-operations](https://github.com/miruddin11/Algorithms/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/miruddin11/Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/miruddin11/Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/miruddin11/Algorithms/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/miruddin11/Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
