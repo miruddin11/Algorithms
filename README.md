@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/miruddin11/Algorithms/tree/master/1072-next-greater-node-in-linked-list) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/miruddin11/Algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-longest-string-chain](https://github.com/miruddin11/Algorithms/tree/master/1129-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1140-stone-game-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/miruddin11/Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/miruddin11/Algorithms/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/miruddin11/Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1332,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/miruddin11/Algorithms/tree/main/0877-stone-game/) | Medium |
 | [0923-super-egg-drop](https://github.com/miruddin11/Algorithms/tree/master/0923-super-egg-drop) |
 | [1033-broken-calculator](https://github.com/miruddin11/Algorithms/tree/master/1033-broken-calculator) |
+| [1140-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1240-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/miruddin11/Algorithms/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/miruddin11/Algorithms/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -1440,6 +1442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/miruddin11/Algorithms/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/miruddin11/Algorithms/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/miruddin11/Algorithms/tree/master/1129-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/miruddin11/Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/miruddin11/Algorithms/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1240-stone-game-ii) |
@@ -1743,6 +1746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/miruddin11/Algorithms/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/miruddin11/Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/miruddin11/Algorithms/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/miruddin11/Algorithms/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/miruddin11/Algorithms/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -2148,6 +2152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/miruddin11/Algorithms/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/miruddin11/Algorithms/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1240-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/miruddin11/Algorithms/tree/master/1406-stone-game-iii) |
 ## Database
@@ -2298,9 +2303,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/miruddin11/Algorithms/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/miruddin11/Algorithms/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
