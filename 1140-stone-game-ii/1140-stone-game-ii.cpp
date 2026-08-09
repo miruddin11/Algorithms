@@ -12,7 +12,7 @@ public:
         }
         int ans = (person == 1) ? -1 : INT_MAX;
         int stones = 0;
-        for(int x = 1;x <= min(2 * M, n - i); x++) {
+        for(int x = 1; x <= min(2 * M, n - i); x++) {
             stones += piles[i + x - 1];
             if(person == 1) {
                 ans = max(ans, stones + solve(piles, 0, i + x, max(M, x)));
