@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/miruddin11/Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/miruddin11/Algorithms/tree/master/1917-maximum-average-pass-ratio) |
+| [2029-stone-game-ix](https://github.com/miruddin11/Algorithms/tree/master/2029-stone-game-ix) |
 | [2089-maximum-matrix-sum](https://github.com/miruddin11/Algorithms/tree/master/2089-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/miruddin11/Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/miruddin11/Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/miruddin11/Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/miruddin11/Algorithms/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/miruddin11/Algorithms/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2029-stone-game-ix](https://github.com/miruddin11/Algorithms/tree/master/2029-stone-game-ix) |
 | [2035-count-sub-islands](https://github.com/miruddin11/Algorithms/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/miruddin11/Algorithms/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/miruddin11/Algorithms/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1357,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/miruddin11/Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/miruddin11/Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/miruddin11/Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/miruddin11/Algorithms/tree/master/2029-stone-game-ix) |
 | [2155-find-missing-observations](https://github.com/miruddin11/Algorithms/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/miruddin11/Algorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/miruddin11/Algorithms/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -1947,6 +1950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/miruddin11/Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/miruddin11/Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/miruddin11/Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2029-stone-game-ix](https://github.com/miruddin11/Algorithms/tree/master/2029-stone-game-ix) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/miruddin11/Algorithms/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/miruddin11/Algorithms/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/miruddin11/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
@@ -2171,6 +2175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1240-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/miruddin11/Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/miruddin11/Algorithms/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/miruddin11/Algorithms/tree/master/2029-stone-game-ix) |
 ## Database
 |  |
 | ------- |
@@ -2324,16 +2329,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/miruddin11/Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/miruddin11/Algorithms/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/miruddin11/Algorithms/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/miruddin11/Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/miruddin11/Algorithms/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/miruddin11/Algorithms/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/miruddin11/Algorithms/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/miruddin11/Algorithms/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
