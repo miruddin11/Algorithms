@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/miruddin11/Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1252-break-a-palindrome](https://github.com/miruddin11/Algorithms/tree/master/1252-break-a-palindrome) |
 | [1304-longest-happy-string](https://github.com/miruddin11/Algorithms/tree/master/1304-longest-happy-string) |
+| [1386-cinema-seat-allocation](https://github.com/miruddin11/Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1502-construct-k-palindrome-strings](https://github.com/miruddin11/Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/miruddin11/Algorithms/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/miruddin11/Algorithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/miruddin11/Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/miruddin11/Algorithms/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/miruddin11/Algorithms/tree/master/1364-tuple-with-same-product) |
+| [1386-cinema-seat-allocation](https://github.com/miruddin11/Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/miruddin11/Algorithms/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/miruddin11/Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/miruddin11/Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/miruddin11/Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/miruddin11/Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/miruddin11/Algorithms/tree/master/1364-tuple-with-same-product) |
+| [1386-cinema-seat-allocation](https://github.com/miruddin11/Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/miruddin11/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/miruddin11/Algorithms/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1500-count-largest-group](https://github.com/miruddin11/Algorithms/tree/master/1500-count-largest-group) |
@@ -2085,6 +2088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/miruddin11/Algorithms/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/miruddin11/Algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/miruddin11/Algorithms/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1386-cinema-seat-allocation](https://github.com/miruddin11/Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/miruddin11/Algorithms/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/miruddin11/Algorithms/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/miruddin11/Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
