@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/miruddin11/Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/miruddin11/Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/miruddin11/Algorithms/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/miruddin11/Algorithms/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/miruddin11/Algorithms/tree/master/2029-stone-game-ix) |
 | [2089-maximum-matrix-sum](https://github.com/miruddin11/Algorithms/tree/master/2089-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/miruddin11/Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
@@ -1046,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/miruddin11/Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/miruddin11/Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/miruddin11/Algorithms/tree/master/1923-sentence-similarity-iii) |
+| [1927-sum-game](https://github.com/miruddin11/Algorithms/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/miruddin11/Algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/miruddin11/Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/miruddin11/Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1362,6 +1364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/miruddin11/Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/miruddin11/Algorithms/tree/master/1642-water-bottles) |
 | [1840-maximum-building-height](https://github.com/miruddin11/Algorithms/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/miruddin11/Algorithms/tree/master/1927-sum-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/miruddin11/Algorithms/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/miruddin11/Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/miruddin11/Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -2187,6 +2190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/miruddin11/Algorithms/tree/master/1240-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/miruddin11/Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/miruddin11/Algorithms/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/miruddin11/Algorithms/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/miruddin11/Algorithms/tree/master/2029-stone-game-ix) |
 ## Database
 |  |
