@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/miruddin11/Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/miruddin11/Algorithms/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/miruddin11/Algorithms/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/miruddin11/Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/miruddin11/Algorithms/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/miruddin11/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/miruddin11/Algorithms/tree/master/0797-rabbits-in-forest) |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/miruddin11/Algorithms/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/miruddin11/Algorithms/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/miruddin11/Algorithms/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/miruddin11/Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/miruddin11/Algorithms/tree/master/0768-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/miruddin11/Algorithms/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
@@ -1469,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/miruddin11/Algorithms/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/miruddin11/Algorithms/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/miruddin11/Algorithms/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/miruddin11/Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/miruddin11/Algorithms/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0788-rotated-digits](https://github.com/miruddin11/Algorithms/tree/main/0788-rotated-digits/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/miruddin11/Algorithms/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -1665,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/miruddin11/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/miruddin11/Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0654-maximum-binary-tree](https://github.com/miruddin11/Algorithms/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/miruddin11/Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/miruddin11/Algorithms/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/miruddin11/Algorithms/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/miruddin11/Algorithms/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -2389,5 +2393,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/miruddin11/Algorithms/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/miruddin11/Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/miruddin11/Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
