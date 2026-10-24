@@ -1087,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/miruddin11/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2384-largest-palindromic-number](https://github.com/miruddin11/Algorithms/tree/main/2384-largest-palindromic-number/) | Medium |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/miruddin11/Algorithms/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/miruddin11/Algorithms/tree/master/2409-count-days-spent-together) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/miruddin11/Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/miruddin11/Algorithms/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/miruddin11/Algorithms/tree/master/2465-shifting-letters-ii) |
@@ -1396,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/miruddin11/Algorithms/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/miruddin11/Algorithms/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/miruddin11/Algorithms/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
+| [2409-count-days-spent-together](https://github.com/miruddin11/Algorithms/tree/master/2409-count-days-spent-together) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/miruddin11/Algorithms/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/miruddin11/Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/miruddin11/Algorithms/tree/master/2645-pass-the-pillow) |
