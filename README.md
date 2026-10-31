@@ -767,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/miruddin11/Algorithms/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/miruddin11/Algorithms/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/miruddin11/Algorithms/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3665-twisted-mirror-path-count](https://github.com/miruddin11/Algorithms/tree/master/3665-twisted-mirror-path-count) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/miruddin11/Algorithms/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/miruddin11/Algorithms/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/miruddin11/Algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -1555,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/miruddin11/Algorithms/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/miruddin11/Algorithms/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/miruddin11/Algorithms/tree/master/3637-count-number-of-balanced-permutations) |
+| [3665-twisted-mirror-path-count](https://github.com/miruddin11/Algorithms/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/miruddin11/Algorithms/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/miruddin11/Algorithms/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/miruddin11/Algorithms/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -1768,6 +1770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/miruddin11/Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/miruddin11/Algorithms/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/miruddin11/Algorithms/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/miruddin11/Algorithms/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/miruddin11/Algorithms/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Sliding Window
 |  |
