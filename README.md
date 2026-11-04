@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/miruddin11/Algorithms/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/miruddin11/Algorithms/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/miruddin11/Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/miruddin11/Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/miruddin11/Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3620-network-recovery-pathways](https://github.com/miruddin11/Algorithms/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/miruddin11/Algorithms/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/miruddin11/Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/miruddin11/Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/miruddin11/Algorithms/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/miruddin11/Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/miruddin11/Algorithms/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/miruddin11/Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/miruddin11/Algorithms/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -969,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/miruddin11/Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/miruddin11/Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/miruddin11/Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/miruddin11/Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/miruddin11/Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/miruddin11/Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/miruddin11/Algorithms/tree/master/3548-find-the-count-of-good-integers) |
@@ -1427,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/miruddin11/Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/miruddin11/Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/miruddin11/Algorithms/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/miruddin11/Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/miruddin11/Algorithms/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/miruddin11/Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/miruddin11/Algorithms/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -1554,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/miruddin11/Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/miruddin11/Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/miruddin11/Algorithms/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/miruddin11/Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/miruddin11/Algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/miruddin11/Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/miruddin11/Algorithms/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -1812,6 +1817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/miruddin11/Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/miruddin11/Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/miruddin11/Algorithms/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/miruddin11/Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/miruddin11/Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/miruddin11/Algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
